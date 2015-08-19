@@ -12,7 +12,7 @@ Read the bible and refer to commentaries wherever you are
   * you can add more bibles to the list via the [CrossWire](http://www.crosswire.org) site
   * free to you with no ads or nagging e-mails
 
-This bible downloads bible documents and uses software from the [http://www.crosswire.org CrossWire] web-site.
+This bible downloads bible documents and uses software from the [Crosswire](http://www.crosswire.org) web-site.
 
 ## Screenshots
 ![And Bible image](https://github.com/mjdenham/and-bible/raw/master/AndBible/graphics/and-bible-main.png)
