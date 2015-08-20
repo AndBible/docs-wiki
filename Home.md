@@ -1,70 +1,10 @@
 # Android Bible App 
 ## Study the Bible on Your Android Mobile or Tablet
 
-Read the bible and refer to commentaries wherever you are
-  * over 40 English versions of the bible including ESV, KJV and NET
-  * totally offline after initial downloads
-  * the bible in over 50 different languages - Swedish, Hungarian, Chinese, Russian and many more
-  * 26 commentaries
-  * uses the [JSword](http://www.crosswire.org/jsword) engine from [CrossWire](http://www.crosswire.org)
-  * user interface translated into many different languages
-  * the code is open source so you can see how it works and improve it
-  * you can add more bibles to the list via the [CrossWire](http://www.crosswire.org) site
-  * free to you with no ads or nagging e-mails
+And Bible is an open source, offline Android Bible study application.
 
-This bible downloads bible documents and uses software from the [CrossWire](http://www.crosswire.org) web-site.
-
-## Screenshots
-![And Bible image](https://github.com/mjdenham/and-bible/raw/master/AndBible/graphics/and-bible-main.png)
-![Main menu image](https://github.com/mjdenham/and-bible/raw/master/AndBible/graphics/and-bible-strongs-main-menu.png)
-
-## Installation
-The easiest way is to download from 
-[Android App Market](http://market.android.com/details?id=net.bible.android.activity), 
-[Amazon](http://www.amazon.com/Martin-Denham-And-Bible/dp/B004Z2KKYK),
-[AppBrain](http://www.appbrain.com/app/net.bible.android.activity?install), [SlideMe](http://slideme.org/application/and-bible), 
-or AppsLib.
-
-Alternatively, to install the bible apk manually either:
-  * copy AndBible-0.0.?.apk to your sd card via a USB connection
-  * install a File Manager like Astro onto your Android mobile
-  * in the file manager navigate to the sd card and click on the AndBible-0.0.?.apk
-OR
-  * install the apk by running 'adb install AndBible-0.0.?.apk'
-
-## Vote for Features
-You may now [vote for or suggest features](https://andbible.uservoice.com) you would like to be added to And Bible.  Here is a [summary of improvements](Future plans) ** I hope to implement soon.
-
-## Getting Help
-There are many notes, including an [FAQ] **, on the [wiki] **.
-
-The [And Bible Discussion Group](https://groups.google.com/group/and-bible) allows you to ask questions or discuss And Bible features.
-
-Alternatively e-mail [help.andbible@gmail.com](mailto:help.andbible@gmail.com)
-
-Also see the introductory videos:
-  * [New Quick Introduction](http://www.youtube.com/watch?v=-vnNnRt98-U)
-  * [Old Slow Introduction](http://www.youtube.com/watch?v=qh8QdAW1ggY)
-  * [Split Screen use](http://youtu.be/R_Zxz5zbj_c)
-  * [Alternate Versifications](http://youtu.be/dTSTW6s_qFU )
-
-## Helping
-### Translation of user interfaces:
-If you would like to contribute a new translation or update an existing translation it is easier now than ever before.  We use a simple translation tool named Transifex.  To become involved in translating And Bible then please e-mail [And Bible Support](mailto:help.andbible@gmail.com).
-
-### Bugs: 
-If you find a problem then please report it in the And Bible [Issue Tracker](https://github.com/mjdenham/and-bible/issues).  If you can analyze, debug or even conribute a fix that would be even better.
-
-### Enhancements: 
-Code enhancements are welcome for review and possible inclusion in the next build.  Please email [And Bible Support](mailto:help.andbible@gmail.com) to discuss development work you are considering.
-
-## Release Notes
-
-### Release 2.1.11 (11 April 2015)
-  * Custom css stylesheet support (see And Bible wiki for details)
-  * Updated Dutch localisation
-  * Updated JSword library with many fixes
-  * Synodal Prot versification mapping
-  * Map zoom control fix
-  * Support new paragraph type
-  * Fewer Xiphos repo checks
+[Home page](http://mjdenham.github.io/and-bible/)  
+[Play Store app page](http://market.android.com/details?id=net.bible.android.activity)  
+[And Bible Discussion Group](https://groups.google.com/group/and-bible)
+And Bible uses the [JSword](http://www.crosswire.org/jsword) library to access Sword modules.
+A large number of Bible, commentary, and dictionary modules in hundreds of languages are provided by Crosswire.
