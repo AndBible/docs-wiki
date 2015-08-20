@@ -10,7 +10,7 @@ Name the files style.css or night\_mode.css and place them in a folder named 'js
 
 The style.css file will always be loaded but the night\_mode.css will only be loaded when Night mode is selected.
 
-Tye custom stylesheets will be loaded in addition the default And Bible stylesheets so it is only necessary to add the styles you wish to override.
+The custom stylesheets will be loaded in addition the default And Bible stylesheets so it is only necessary to add the styles you wish to override.
 
 After changing either css file And Bible will need to be restarted to show the changes.
 
