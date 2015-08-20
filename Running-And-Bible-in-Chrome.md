@@ -1,6 +1,6 @@
 # Introduction #
 
-Experiences with Chromium
+Experiences running And Bible in Chrome.
 
 # Details #
 
@@ -12,7 +12,10 @@ In the extensions page, you can click Details > Create Shortcuts in order to mak
 
 >When I was on Linux, I remember that package managers typically had Chromium in them, which was different from the Chrome package thats downloadable from Google.
 
-# Logcat #
+I have recently created a [modified build](https://drive.google.com/open?id=0B1yZK0LYUsB7RkdXalhJRXZrdXM) of And Bible which is more compatible with Chrome by replacing HttpClient with HttpURLConnection.
+
+# Arc Welder Development #
+## Logcat ##
 Open your debug APK in ARC Welder and run it
 Open Chrome and type "chrome://inspect/#apps" in the address bar
 Hopefully you see your App name listed, click the 'inspect' link for your app.
@@ -20,7 +23,7 @@ In the Javascript Console that appears type
 plugin.shell('logcat');
 Source: https://developer.chrome.com/apps/getstarted_arc#bestpractices
 
-# Error #
+## Error ##
 https://code.google.com/p/chromium/issues/detail?id=384940
 
 /AbstractSwordInstaller(  204): Failed to reload cached index file
