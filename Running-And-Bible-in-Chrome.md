@@ -23,8 +23,9 @@ In the Javascript Console that appears type
 plugin.shell('logcat');
 Source: https://developer.chrome.com/apps/getstarted_arc#bestpractices
 
-## Error ##
+## Error Caused by HttpClient ##
 https://code.google.com/p/chromium/issues/detail?id=384940
+I subsequently replaced HttpClient with HtpURLConnection to avoid this issue and created this [modified build](https://drive.google.com/open?id=0B1yZK0LYUsB7RkdXalhJRXZrdXM).
 
 /AbstractSwordInstaller(  204): Failed to reload cached index file
 E/AbstractSwordInstaller(  204): org.crosswire.jsword.book.install.InstallException: Unable to find: http://www.crosswire.org/ftpmirror/pub/sword/wyclifferaw/mods.d.tar.gz
