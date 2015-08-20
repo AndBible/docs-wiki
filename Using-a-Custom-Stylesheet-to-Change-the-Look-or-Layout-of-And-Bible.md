@@ -15,7 +15,7 @@ The custom stylesheets will be loaded in addition the default And Bible styleshe
 After changing either css file And Bible will need to be restarted to show the changes.
 
 ## Example ##
-An example custom css file using green text for night mode follows.  To use this save it in jsword/css/night\_mode.css.
+An example custom css file using green text for night mode follows.  To use this save it in jsword/css/night\_mode.css on your SD card or internal drive depending on your device.
 ```
 /* make foreground text green */
 body {
