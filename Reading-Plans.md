@@ -1,17 +1,3 @@
-# Update #
-
-To avoid problems with incorrect readings for non-English readers and difficulty specifying single chapter books Reading Plans are being changed to use OSIS ids instead of the current free format passage references.
-
-Non-OSIS references will be deprecated.  I have made some attempt to ensure old free-format references will continue to work but this is not guaranteed.
-
-Passage references must be changed from the following style: "Gen 1, Matt 1-2, Psalm 119:1-10"
-To: "Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10"
-
-Example reading plans can be found [here](https://github.com/mjdenham/and-bible/tree/master/AndBible/assets/readingplan).
-
-A full list of OSIS book names can be found [here](http://www.crosswire.org/wiki/OSIS_Book_Abbreviations)
-
-
 # Reading Plan #
 
 Reading plans are accessible via Menu/More/Reading Plan.
@@ -38,7 +24,11 @@ It is possible to skip days e.g. if you do not wish to a reading at the weekend.
 3=Gen.2, Matt.2
 ```
 
-OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.
+OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.  E.g. Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10
+
+Example reading plans can be found [here](https://github.com/mjdenham/and-bible/tree/master/AndBible/assets/readingplan).
+
+A full list of OSIS book names can be found [here](http://www.crosswire.org/wiki/OSIS_Book_Abbreviations)
 
 ##### Deuterocanonical Books #####
 The default versification for reading plans is KJV.  If you wish to include deuterocanonical books  in your plan you must specify the versification in the properties file.  E.g.:
