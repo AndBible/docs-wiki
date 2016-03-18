@@ -1,6 +1,6 @@
 And Bible build has been migrated to Android Studio.
 
-Download and Install Android Studio.
+Download and Install [Android Studio](http://developer.android.com/sdk).
 
 Open a Terminal/command prompt.
 
