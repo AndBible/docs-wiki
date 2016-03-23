@@ -39,11 +39,13 @@ It has been suggested that And Bible includes Graphite integration to display rt
 
 Graphite still requires fonts to be distributed so this would build on the initial font distribution framework.
 
-The Android integration of Graphite seems to be being refined.
+The Android implementation of Graphite seems to be being refined.
 
-## Current Status ##
+## Greek Font Tests ##
 I have been testing various Greek fonts with the SBLGNT module.
 
+| Font | Test result |
+|:------------------|:---------------------------------------|
 | GentiumPlus-R.ttf | squares due to missing chars in SBLGNT |
 | SBL\_grk.ttf      | looks perfect to me                    |
 | LinLibertine\_R.otf | squares due to missing chars in SBLGNT |
