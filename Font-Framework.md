@@ -45,7 +45,6 @@ The Android integration of Graphite seems to be being refined.
 I have been testing various Greek fonts with the SBLGNT module.
 
 | GentiumPlus-R.ttf | squares due to missing chars in SBLGNT |
-|:------------------|:---------------------------------------|
 | SBL\_grk.ttf      | looks perfect to me                    |
 | LinLibertine\_R.otf | squares due to missing chars in SBLGNT |
 | LinBiolinum\_R.otf | squares due to missing chars in SBLGNT |
