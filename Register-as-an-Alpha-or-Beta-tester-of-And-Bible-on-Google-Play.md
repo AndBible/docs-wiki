@@ -1,3 +1,4 @@
+## Alpha Testing
 The And Bible Project invites all members of the and-bible Google Group to register with Google Play as an Alpha tester of the And Bible app for Android. This will allow you to install the latest Alpha version and receive automatic upgrades as new Beta versions are released.
 
 To register as an Alpha tester:
@@ -9,3 +10,6 @@ if you have more than one Google identity, you must sign out of all others excep
 go to https://play.google.com/apps/testing/net.bible.android.activity and agree to be a tester
 add the same Google account to your Android device
 use your Android device to search for the And Bible app in the Play Store and install it
+
+## Beta Testing
+Beta testing is open to all.  You can opt-in via the And Bible Play Store page [here](https://play.google.com/apps/testing/net.bible.android.activity).
