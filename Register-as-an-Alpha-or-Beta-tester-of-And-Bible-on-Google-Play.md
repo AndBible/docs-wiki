@@ -3,13 +3,12 @@ The And Bible Project invites all members of the and-bible Google Group to regis
 
 To register as an Alpha tester:
 
-you need to have a Google account
-you need to subscribe to the and-bible discussion group (https://groups.google.com/forum/#!forum/and-bible) using that account
-you need to be signed in to Google using that account
-if you have more than one Google identity, you must sign out of all others except the one you are using, or the link below will return a 404 error
-go to https://play.google.com/apps/testing/net.bible.android.activity and agree to be a tester
-add the same Google account to your Android device
-use your Android device to search for the And Bible app in the Play Store and install it
+- you need to have a Google account
+- you need to subscribe to the and-bible discussion group (https://groups.google.com/forum/#!forum/and-bible) using that account
+- you need to be signed in to Google using that account.  If you have more than one Google identity, you must sign out of all others except the one you are using, or the link below will return a 404 error
+- go to https://play.google.com/apps/testing/net.bible.android.activity and agree to be a tester
+- add the same Google account to your Android device if it is not already
+- use your Android device to search for the And Bible app in the Play Store and install it
 
 ## Beta Testing
 Beta testing is open to all.  You can opt-in via the And Bible Play Store page [here](https://play.google.com/apps/testing/net.bible.android.activity).
