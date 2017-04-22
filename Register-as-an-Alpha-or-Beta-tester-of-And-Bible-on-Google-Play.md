@@ -1,3 +1,5 @@
+Pre-release versions of And Bible now normally go directly to beta rather than via alpha because beta registration is simpler.
+
 ## Alpha Testing
 The And Bible Project invites all members of the and-bible Google Group to register with Google Play as an Alpha tester of the And Bible app for Android. This will allow you to install the latest Alpha version and receive automatic upgrades as new Beta versions are released.
 
