@@ -121,3 +121,16 @@ To allow for auto-uninstall of application generated files indexes are generated
 Sword generated indexes partially work in And Bible but fully compatible indexes must be generated using a recent JSword application on JDK 1.5+.
 
 The best, quickest and most reliable method to get a search index is to download it using And Bible as requested the first time you request a Search.
+
+## What are the permissions for? ##
+
+And Bible requires the following permissions:
+
+1. Full network access
+    In order to download Bible versions
+1. Modify or delete the contents of your SD card + read the contents of your SD card
+    In order to store Bible versions
+1. Read phone status and identity
+    In order to stop Speak if a call comes in
+1. Modify system settings
+    In order to change the screen sleep time if requested in And Bible settings
