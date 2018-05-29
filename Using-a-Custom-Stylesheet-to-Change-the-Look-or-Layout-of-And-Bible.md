@@ -14,7 +14,7 @@ The custom stylesheets will be loaded in addition the default And Bible styleshe
 
 After changing either css file And Bible will need to be restarted to show the changes.
 
-## Example ##
+## Example: Green Text in Night Mode ##
 An example custom css file using green text for night mode follows.  To use this save it in jsword/css/night\_mode.css on your SD card or internal drive depending on your device.
 ```
 /* make foreground text green */
@@ -46,7 +46,13 @@ a {
 	color: #210C7D;
 }
 ```
-
+## Example: Override Default max-width ##
+In release [2.10.0](https://github.com/mjdenham/and-bible/releases/tag/build-02.10.00), a change was made to the default style sheet that sets the maximum width of the text to 15cm, regardless of the width of the display. This may not be a desired outcome in some use cases, e.g., in landscape mode on tablets, so here's a simple custom style to override that change. To use this, save it in jsword/css/style.css on your sdcard.
+```
+body {
+	max-width: 100%;
+}
+```
 ## Hi tag ##
 In addition to the standard style classes used by And Bible module developers requiring a custom span tag may use the type `'x-*'`.
 E.g.
