@@ -3,7 +3,7 @@
 
 And Bible is an open source, offline Android Bible study application.
 
-[Home page](http://mjdenham.github.io/and-bible/)  
+[Home page](http://andbible.github.io/and-bible/)  
 [Play Store app page](http://market.android.com/details?id=net.bible.android.activity)  
 [And Bible Discussion Group](https://groups.google.com/group/and-bible)  
 And Bible uses the [JSword](http://www.crosswire.org/jsword) library to access Sword modules.
