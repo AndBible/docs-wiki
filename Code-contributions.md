@@ -15,6 +15,8 @@ git clone https://github.com/AndBible/and-bible.git
 
 ## Running tests
 
+Configuration for running tests in Android Studio:
+
 ![Test configuration in Android Studio](https://user-images.githubusercontent.com/5811789/48984311-c4df5780-f102-11e8-937b-c5d438b79629.png)
 
 ## Creating pull request
@@ -23,3 +25,6 @@ git clone https://github.com/AndBible/and-bible.git
 - Consider writing unit tests (whether it is very important or not depends on the type of code you write)
 - Run tests and fix any that happen to be broken after your improvements
 - Create pull request towards master branch
+
+## Building new jsword.jar for And Bible
+- See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
