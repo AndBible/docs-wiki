@@ -1,9 +1,5 @@
 # And Bible FAQ #
 
-
-## How can I scroll to the next chapter ##
-Swipe right/left to go to the previous/next chapter.
-
 ## I have downloaded one bible but how do I download more bibles, commentaries etc. ##
 
 To download bibles, commentaries, and books start And Bible and select Menu button (see 'Where is the Menu Button' below) / More / Download Documents.
@@ -29,16 +25,6 @@ The backup created by And Bible is a SqLite database file named andBibleDatabase
 You may wish to copy this file to your pc via usb after backup to ensure you do not lose any data.
 
 If you are having difficulty restoring i) ensure you have a copy of your backup file ii) do a backup and observe the location of the new andBibleDatabase.db iii) overwrite the new file with the old backup file iv) do a restore.
-
-## Can you add an Exit button? ##
-
-Pressing the Home button takes you to the main Android screen from which you can see all your other applications.  Long-pressing the Home button allows you to jump straight to any recent application.  This is the standard way Android applications work.
-
-Android 4 has the Task Switcher button which allows you to switch to, or close by side-swiping any app.
-
-Exit buttons are not normally used in Android applications:
-[Quitting an application - is that frowned upon?](http://stackoverflow.com/questions/2033914/quitting-an-application-is-that-frowned-upon/2034238#2034238)
-[Android App Exit Button](http://stackoverflow.com/questions/4089496/android-app-exit-button)
 
 ## Can I manually add modules/documents to And Bible? ##
 
@@ -82,23 +68,9 @@ This is due to the unusual versification used by the Sword modules containing Fr
 
 Please see [this discussion](http://www.crosswire.org/pipermail/sword-devel/2014-March/041180.html) on the sword-devel mailing list.
 
-## I just see squares instead of the Hebrew bible ##
-
-Hebrew font support was added in Android 2.2.  Although some people have found out how to add Hebrew fonts to older versions of Android that is not supported although it may work for you.
-
-Hebrew fonts are in Android 2.2 but RTL does not work if Hebrew vowels are displayed so And Bible does not display Hebrew vowels.
-
-## Why do I have to re-Download Documents after upgrading to a new version of And Bible ##
-
-This is caused by a bug in Android 2.2.  And Bible automatically deletes all downloaded documents if And Bible is uninstalled but support for this feature was not implemented correctly by Google in Android 2.2 so documents are deleted on upgrade as well as on uninstall.  This problem does not affect Android 2.3.x or later.
-
-## And Bible is large ##
-
-It is actually smaller than most other programs but if you are on Android 2.2+ then you can move it to the SD card.  And Bible was reduced from over 5 Mb to 1.5 Mb in version 0.0.14.
-
 ## I want integration with Strong's Concordance ##
 
-This has been implemented.  There are several bibles containing Strongs references one of which is the KJV.
+This has been implemented.  There are several bibles containing Strongs references, such as ESV2011 and KJV.
 
 ## How can I go to a Strong's Reference Number ##
 
@@ -107,12 +79,6 @@ You can go to a Strong's reference by
   * when viewing Strong's select MENU/Contents and then enter the desired no e.g. 02227 - remember the initial zero.
   * swipe left/right when viewing a Strong's page to go to next/prev ref
 Release 0.4.0 will allow a list of all occurrences of a Strong's number to be displayed.
-
-## Does And Bible Work on BlackBerry 10 OS ##
-
-And Bible has been successfully installed by a user on BlackBerry 10 OS without any known issues.  Here are the user's comments:
-
-I've just installed And Bible App for BlackBerry 10 OS on my BlackBerry Z10 using Sideload Google Play Client Snap for Andriod Apps. This link provides the instruction for installing Snap should any you encounter anyone who needs help in having And Bible for BlackBerry 10 OS. http://blackberryempire.com/how-to-sideload-google-play-snap-android-apps-blackberry-10/
 
 ## Can I generate my own indexes and manually copy them to my Android mobile ##
 
