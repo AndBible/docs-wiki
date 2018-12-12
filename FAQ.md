@@ -128,9 +128,7 @@ And Bible requires the following permissions:
 
 1. Full network access
     In order to download Bible versions
-1. Modify or delete the contents of your SD card + read the contents of your SD card
-    In order to store Bible versions
-1. Read phone status and identity
+1. (optional) Modify or delete the contents of your SD card + read the contents of your SD card
+    In order to backup / restore bookmarks
+1. Read phone status and identity (only until Android 5 (Lollipop))
     In order to stop Speak if a call comes in
-1. Modify system settings
-    In order to change the screen sleep time if requested in And Bible settings
