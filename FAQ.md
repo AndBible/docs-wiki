@@ -1,6 +1,6 @@
 # And Bible FAQ #
 
-## Is there version for iOS (Apple iPhone / iPad)
+## Is there version for iOS (Apple iPhone / iPad) in plans?
 
 No, unfortunately this app is exclusively for Android at the moment, and there are no 
 plans to make it for iPhone, as long as there are no easy paths of porting native Android
