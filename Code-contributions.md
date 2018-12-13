@@ -19,7 +19,7 @@ Configuration for running tests in Android Studio:
 
 ![Test configuration in Android Studio](https://user-images.githubusercontent.com/5811789/48984311-c4df5780-f102-11e8-937b-c5d438b79629.png)
 
-## Creating pull request
+## Contributing code
 
 - Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
 - Consider writing unit tests (whether it is very important or not depends on the type of code you write)
