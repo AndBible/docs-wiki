@@ -1,5 +1,13 @@
 # And Bible FAQ #
 
+## Is there version for iOS (Apple iPhone / iPad)
+
+No, unfortunately this app is exclusively for Android at the moment, and there are no 
+plans to make it for iPhone, as long as there are no easy paths of porting native Android
+apps to iOS.
+
+For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
+
 ## I have downloaded one bible but how do I download more bibles, commentaries etc. ##
 
 To download bibles, commentaries, and books start And Bible and select Menu button (see 'Where is the Menu Button' below) / More / Download Documents.
