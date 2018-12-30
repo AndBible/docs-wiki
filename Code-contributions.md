@@ -21,10 +21,14 @@ Configuration for running tests in Android Studio:
 
 ## Contributing code
 
-- Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
 - Consider writing unit tests (whether it is very important or not depends on the type of code you write)
 - Run tests and fix any that happen to be broken after your improvements
 - Create pull request towards master branch
+
+# Code style guide
+
+- Do not write too long lines (120 characters should be your guide)
+- Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
 
 ## Building new jsword.jar for And Bible
 - See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
