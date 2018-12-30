@@ -25,7 +25,7 @@ Configuration for running tests in Android Studio:
 - Run tests and fix any that happen to be broken after your improvements
 - Create pull request towards master branch
 
-# Code style guide
+### Code style guide
 
 - Do not write too long lines (120 characters should be your guide)
 - Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
