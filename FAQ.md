@@ -107,16 +107,4 @@ And Bible requires the following permissions:
 1. Read phone status and identity (only until Android 5 (Lollipop))
     In order to stop Speak if a call comes in
 
-## Finnish-specific. Suomalaiselle yleisölle
-
-### Puhe-ominaisuutta käytettäessä tulee ilmoitus: "Tätä kieltä ei voi käyttää" ##
-
-Joissain puhelimissa (ainakin Samsung-malleissa) ei ole asennettuna Googlen puhesyntetisaattoria.
-Tarvitset Googlen puhesyntetisaattorin, jonka voit asentaa [Google Playstä](https://play.google.com/store/apps/details?id=com.google.android.tts). 
-
-Asentamisen jälkeen sinun pitää asettaa tämä puhesyntetisaattori käyttöön:
-
-Etsi puhelimen asetuksista Accessibility -> Text to speech output ja sieltä vaihda "Preferred engine" -> "Google Text-to-speech Engine". 
-
-Suomeksi sama: Esteettömyys -> Tekstistä puheeksi -toisto ja sieltä vaihda Ensisijainen moottori -> "Googlen tekstistä puheeksi -moottori".
 
