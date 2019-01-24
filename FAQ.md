@@ -69,7 +69,7 @@ Documents currently being displayed cannot be deleted, and neither can documents
 
 The [And Bible Discussion Group](https://groups.google.com/group/and-bible) allows you to ask questions or discuss And Bible features.
 
-Alternatively e-mail help.andbible@gmail.com
+Alternatively e-mail and-bible-support@googlegroups.com
 
 ## Psalms in French Bibles are Offset by One ##
 This is due to the unusual versification used by the Sword modules containing French Bibles like FreSegond and FreCrampon.
