@@ -26,9 +26,9 @@ It is possible to skip days e.g. if you do not wish to a reading at the weekend.
 
 OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.  E.g. Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10
 
-Example reading plans can be found [here](https://github.com/mjdenham/and-bible/tree/master/AndBible/assets/readingplan).
+Example reading plans can be found [here](https://github.com/AndBible/ReadingPlanCreator/tree/master/out).
 
-A full list of OSIS book names can be found [here](http://www.crosswire.org/wiki/OSIS_Book_Abbreviations)
+A full list of OSIS book names can be found [here](https://wiki.crosswire.org/OSIS_Book_Abbreviations)
 
 ##### Deuterocanonical Books #####
 The default versification for reading plans is KJV.  If you wish to include deuterocanonical books  in your plan you must specify the versification in the properties file.  E.g.:
