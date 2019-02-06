@@ -26,7 +26,7 @@ It is possible to skip days e.g. if you do not wish to a reading at the weekend.
 
 OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.  E.g. Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10
 
-Example reading plans can be found [here](https://github.com/AndBible/ReadingPlanCreator/tree/master/out).
+Example reading plans can be found [here](https://github.com/AndBible/and-bible/tree/master/app/src/main/assets/readingplan).
 
 A full list of OSIS book names can be found [here](https://wiki.crosswire.org/OSIS_Book_Abbreviations)
 
