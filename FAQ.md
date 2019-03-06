@@ -1,5 +1,11 @@
 # And Bible FAQ #
 
+## Is there any way to change the voice of the speech synthesis in And Bible?
+
+How voice is changed varies between different TTS engines. 
+
+If you are using Google Text To Speech Engine in particular (which you can also install from [here](https://play.google.com/store/apps/details?id=com.google.android.tts)),  you can change the used speech voice as follows: System TTS settings -> Settings icon button -> "Install voice data" -> "English (United States)" -> voice selection appears.
+
 ## Is there version for iOS (Apple iPhone / iPad) in plans?
 
 No, unfortunately this app is exclusively for Android at the moment, and there are no 
