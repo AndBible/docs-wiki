@@ -1,5 +1,9 @@
 # And Bible FAQ #
 
+## I have older phone, that doesn't have Android 4.4+. Can I use And Bible?
+
+Yes, you can download old, unsupported version from [here](https://github.com/AndBible/and-bible/releases/tag/build-02.09.05).
+
 ## Is there any way to change the voice of the speech synthesis in And Bible?
 
 How voice is changed varies between different TTS engines. 
