@@ -2,7 +2,9 @@
 
 ## I found text issue in one of the Bible / Commentary etc. modules in And Bible. 
 
-Please report your problem to Crosswire modules team.
+And Bible developers don't fix module issues. Modules to And Bible are provided primarily
+via JSword engine, which uses Sword modules by Crosswire. Thus, you should report your problem 
+to Crosswire modules team.
 
 You can report module issues directly via their [issue tracker](https://tracker.crosswire.org/projects/MOD/)
 
