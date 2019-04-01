@@ -8,7 +8,7 @@ to Crosswire modules team.
 
 You can report module issues directly via their [issue tracker](https://tracker.crosswire.org/projects/MOD/)
 
-You can also get in touch with them via email to their email list: https://www.crosswire.org/mailman/listinfo/sword-devel or via their other contact methods mentioned in http://crosswire.org/contact/.
+You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/).
 
 
 ## I have older phone, that doesn't have Android 4.4+. Can I use And Bible?
