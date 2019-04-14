@@ -1,14 +1,5 @@
 # And Bible FAQ #
 
-## I don't like the improvement X. Please change it back!
-
-If you don't like some or all of the recent improvements, you can choose to install old version APK from
-[Github releases page](https://github.com/AndBible/and-bible/releases).
-
-Your ideas and comments (negative ones too) are welcome, but unfortunately we can't always 
-please everyone with our design choices. We try to make And Bible as good as we can, 
-but user experience is subjective and varies from person to person.
-
 ## I found text issue in one of the Bible / Commentary etc. modules in And Bible. 
 
 And Bible developers don't fix module issues. Modules to And Bible are provided primarily
@@ -138,3 +129,11 @@ And Bible requires the following permissions:
     In order to stop Speak if a call comes in
 
 
+## I don't like the improvement X. Please change it back!
+
+If you don't like some or all of the recent improvements, you can choose to install old version APK from
+[Github releases page](https://github.com/AndBible/and-bible/releases).
+
+Your ideas and comments (negative ones too) are welcome, but unfortunately we can't always 
+please everyone with our design choices. We try to make And Bible as good as we can, 
+but user experience is subjective and varies from person to person.
