@@ -134,7 +134,5 @@ And Bible requires the following permissions:
 If you don't like some or all of the recent improvements, you can choose to install old version APK from
 [Github releases page](https://github.com/AndBible/and-bible/releases). You may need to browse back a few pages to find the version you like. See release notes to see which release has introduced undesired changes.
 
-Your ideas and comments (negative ones too) are welcome, but unfortunately we can't always 
-please everyone with our design choices. We try to make And Bible as good as we can, 
-but user experience is subjective and varies from person to person, so there will always be some people
+Your ideas and comments are welcome  (negative ones too, though please try to be nice and constructive), but unfortunately we can't always  please everyone with our design choices. We try to make And Bible as good as we can, but user experience is subjective and varies from person to person, so there will always be some people
 that don't like some choices that we make.
