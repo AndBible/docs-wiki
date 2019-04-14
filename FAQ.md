@@ -136,4 +136,5 @@ If you don't like some or all of the recent improvements, you can choose to inst
 
 Your ideas and comments (negative ones too) are welcome, but unfortunately we can't always 
 please everyone with our design choices. We try to make And Bible as good as we can, 
-but user experience is subjective and varies from person to person.
+but user experience is subjective and varies from person to person, so there will always be some people
+that don't like some choices that we make.
