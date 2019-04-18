@@ -13,6 +13,10 @@ git clone https://github.com/AndBible/and-bible.git
 
 5. In Android Studio select File/Open.  Then open the and-bible folder with a green compass icon under mydevdir/and-bible/and-bible.
 
+While running And Bible in emulator, I'm using the following configuration:
+
+![Selection_014](https://user-images.githubusercontent.com/5811789/56358437-42595080-61e7-11e9-98a5-4cf5903049c3.png)
+
 ## Running tests
 
 Configuration for running tests in Android Studio:
