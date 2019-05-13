@@ -34,5 +34,15 @@ Configuration for running tests in Android Studio:
 - Do not write too long lines (120 characters should be your guide)
 - Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
 
+### Branch naming
+
+Please name your branches in the following syntax: <type>/#<issue-number>_<name>, where
+
+- <type> is either feature or bugfix. Could also be refactor or improvement if it is clearly not a new feature or a bugfix. 
+- <issue-number> is Github issue number
+- <name> is short human-readable name of the feature, spaces replaced with underscores (_).  
+
+Example: feature/#100_improve_layout
+
 ## Building new jsword.jar for And Bible
 - See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
