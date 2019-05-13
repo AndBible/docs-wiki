@@ -36,11 +36,11 @@ Configuration for running tests in Android Studio:
 
 ### Branch naming
 
-Please name your branches in the following syntax: <type>/#<issue-number>_<name>, where
+Please name your branches in the following syntax: `<type>/#<issue-number>_<name>`, where
 
-- <type> is either feature or bugfix. Could also be refactor or improvement if it is clearly not a new feature or a bugfix. 
-- <issue-number> is Github issue number
-- <name> is short human-readable name of the feature, spaces replaced with underscores (_).  
+- `<type>` is either feature or bugfix. Could also be refactor or improvement if it is clearly not a new feature or a bugfix. 
+- `<issue-number>` is Github issue number
+- `<name>` is short human-readable name of the feature, spaces replaced with underscores (_).  
 
 Example: feature/#100_improve_layout
 
