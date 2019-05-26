@@ -3,7 +3,7 @@
 ## Please add module X to And Bible!
 
 Modules to And Bible are provided primarily via JSword engine, which uses Sword modules by Crosswire. 
-Thus, you should report your requests to Crosswire modules team.
+Thus, you should make your requests to Crosswire modules team.
 
 You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/).
 
