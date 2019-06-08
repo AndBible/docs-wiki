@@ -4,7 +4,7 @@
 
 The publishers of the ESV have unfortunately decided it is not longer in their interest to publish towards SWORD platform (by Crosswire Bible Society) which And Bible is using.
 
-We are in progress in investigating options to bring ESV back to And Bible. See #390.
+We are in progress in investigating options to bring ESV back to And Bible. See [#390](https://github.com/AndBible/and-bible/issues/390).
 
 ## Please add module X to And Bible!
 
@@ -66,86 +66,4 @@ The backup created by And Bible is a SqLite database file named andBibleDatabase
 
 You may wish to copy this file to your pc via usb after backup to ensure you do not lose any data.
 
-If you are having difficulty restoring i) ensure you have a copy of your backup file ii) do a backup and observe the location of the new andBibleDatabase.db iii) overwrite the new file with the old backup file iv) do a restore.
-
-## Can I manually add modules/documents to And Bible? ##
-
-Yes, you can copy modules to a jsword directory on your sd card.  Expand the module so that the .conf file is in sdcard/jsword/mods.d and the bible files in a subdirectory of sdcard/jsword/modules e.g. sdcard\jsword\modules\texts\ztext\nettext.
-
-The main source for modules to manually install is: http://www.crosswire.org/sword/modules/index.jsp or http://www.crosswire.org/ftpmirror/pub/sword/raw/.
-
-There is a list of module repositories here: http://www.crosswire.org/wiki/Module_Repositories
-
-Modules/documents installed via the Download screen in And Bible will be placed in a different directory.
-
-## Why are Bible books listed vertically in the portrait mode passage selector ##
-
-Listing books vertically when in portrait mode allows longer sequences of books and therefore makes it easier to locate the correct column for the book you are seeking.
-
-This is in some ways similar to the list of books at the front of bibles which normally run vertically in 2 or 3 columns.
-
-In the future I plan to add a vertical line separator between OT and NT books to guide user's eyes.
-
-Landscape mode Bible books are listed horizontally for the same reason as above.
-
-## Can I delete a document from And Bible ##
-
-To delete a document:
-  * display the documents list
-  * long-press on the document
-  * select Delete
-
-This will also delete the document's index.
-
-Documents currently being displayed cannot be deleted, and neither can documents that have only just been downloaded.
-
-## How can I get help? ##
-
-The [And Bible Discussion Group](https://groups.google.com/group/and-bible) allows you to ask questions or discuss And Bible features.
-
-Alternatively e-mail and-bible-support@googlegroups.com
-
-## Psalms in French Bibles are Offset by One ##
-This is due to the unusual versification used by the Sword modules containing French Bibles like FreSegond and FreCrampon.
-
-Please see [this discussion](http://www.crosswire.org/pipermail/sword-devel/2014-March/041180.html) on the sword-devel mailing list.
-
-## I want integration with Strong's Concordance ##
-
-This has been implemented.  There are several bibles containing Strongs references, such as ESV2011 and KJV.
-
-## How can I go to a Strong's Reference Number ##
-
-You can go to a Strong's reference by
-  * clicking a link in a bible containing Strong's references
-  * when viewing Strong's select MENU/Contents and then enter the desired no e.g. 02227 - remember the initial zero.
-  * swipe left/right when viewing a Strong's page to go to next/prev ref
-Release 0.4.0 will allow a list of all occurrences of a Strong's number to be displayed.
-
-## Can I generate my own indexes and manually copy them to my Android mobile ##
-
-To allow for auto-uninstall of application generated files indexes are generated to the appropriate module sub-dir of /mnt/sdcard/Android/data/net.bible.android.activity/files/lucene/Sword e.g. ESV indexes are in ../lucene/Sword/ESV.
-
-Sword generated indexes partially work in And Bible but fully compatible indexes must be generated using a recent JSword application on JDK 1.5+.
-
-The best, quickest and most reliable method to get a search index is to download it using And Bible as requested the first time you request a Search.
-
-## What are the permissions for? ##
-
-And Bible requires the following permissions:
-
-1. Full network access
-    In order to download Bible versions
-1. (optional) Modify or delete the contents of your SD card + read the contents of your SD card
-    In order to backup / restore bookmarks
-1. Read phone status and identity (only until Android 5 (Lollipop))
-    In order to stop Speak if a call comes in
-
-
-## I don't like the improvement X. Please change it back!
-
-If you don't like some or all of the recent improvements, you can choose to install old version APK from
-[Github releases page](https://github.com/AndBible/and-bible/releases). You may need to browse back a few pages to find the version you like. See release notes to see which release has introduced undesired changes.
-
-Your ideas and comments are welcome  (negative ones too, though please try to be nice and constructive), but unfortunately we can't always  please everyone with our design choices. We try to make And Bible as good as we can, but user experience is subjective and varies from person to person, so there will always be some people
-that don't like some choices that we make.
+If you are having difficulty restoring i) ensure you have a copy of your backup file ii) do a backup and observe the location of the new andBibleDatabase.db iii) overwrite the 
