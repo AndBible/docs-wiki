@@ -1,5 +1,11 @@
 # And Bible FAQ #
 
+## I can't find ESV any more in Downloads. What's wrong?
+
+The publishers of the ESV have unfortunately decided it is not longer in their interest to publish towards SWORD platform (by Crosswire Bible Society) which And Bible is using.
+
+We are in progress in investigating options to bring ESV back to And Bible. See #390.
+
 ## Please add module X to And Bible!
 
 Modules to And Bible are provided primarily via JSword engine, which uses Sword modules by Crosswire. 
