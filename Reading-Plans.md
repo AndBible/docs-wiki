@@ -9,7 +9,7 @@ The Done button will be enabled after pressing Speak or Passage for each passage
 ## Custom Reading Plans ##
 It is possible to create a custom reading plan for use with And Bible.
 
-You will need to create a file similar to the examples [here](https://github.com/mjdenham/and-bible/tree/master/AndBible/assets/readingplan) which are the reading plans distributed with And Bible.  The name of the file will be the name of the plan.  The file extension must be .properties and you must place it on your mobile's sdcard in a folder named jsword/readingplan.  Use a simple text editor to create the file e.g. Notepad++ and do not use something like Word.  The file must contain a series of rows in the format day=reading1,reading2 E.g.
+You will need to create a file similar to the examples [here](https://github.com/AndBible/and-bible/tree/master/app/src/main/assets/readingplan) which are the reading plans distributed with And Bible.  The name of the file will be the name of the plan.  The file extension must be .properties and you must place it on your mobile's sdcard in a folder named jsword/readingplan.  Use a simple text editor to create the file e.g. Notepad++ and do not use something like Word.  The file must contain a series of rows in the format day=reading1,reading2 E.g.
 ```
 1=Gen.1, Matt.1
 2=Gen.2, Matt.2
