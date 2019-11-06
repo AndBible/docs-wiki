@@ -3,15 +3,16 @@
 ## Building And Bible
 
 1. Download and Install [Android Studio](http://developer.android.com/sdk).
-2. Open a Terminal/command prompt.
-3. Create a directory e.g. 'mydevdir' and change to that directory.
+2. Install node.js from [http://nodejs.org/](http://nodejs.org/).
+3. Open a Terminal/command prompt.
+4. Create a directory e.g. 'mydevdir' and change to that directory.
 
-4. Run:
+5. Run:
 ```
 git clone https://github.com/AndBible/and-bible.git 
 ```
 
-5. In Android Studio select File/Open.  Then open the and-bible folder with a green compass icon under mydevdir/and-bible/and-bible.
+6. In Android Studio select File/Open.  Then open the and-bible folder with a green compass icon under mydevdir/and-bible/and-bible.
 
 While running And Bible in emulator, I'm using the following configuration:
 
