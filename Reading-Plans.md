@@ -24,6 +24,17 @@ It is possible to skip days e.g. if you do not wish to a reading at the weekend.
 3=Gen.2, Matt.2
 ```
 
+You can also add a date-based reading plan, which includes the month and day number for each day. It must be in the format of 3 letters for the month, then dash and month day number followed by semicolon (;). E.g.
+```
+1=Jan-1;Gen.1-2,Ps.1-2,Matt.1-2
+2=Jan-2;Gen.3-4,Ps.3-5,Matt.3-4
+3=Jan-3;Gen.5-6,Ps.6-8,Matt.5
+...
+146=May-26;Jos 12,Isa 16,2Tim 2
+...
+334=Nov-30;Est 7-8,Oba,Heb 3-5
+```
+
 OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.  E.g. Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10
 
 Example reading plans can be found [here](https://github.com/AndBible/and-bible/tree/master/app/src/main/assets/readingplan).
@@ -39,8 +50,8 @@ Versification=Vulg
 3=Bar.1-Bar.2
 ```
 
-## Set Start to Jan 1st ##
-If you started the readings on 1st Jan and have just switched to And Bible then select Menu form the Daily Reading screen and then select 'Start Jan 1'.  You may then jump to 'Move the current day to a specific day' below to skip over readings you have already done.
+## Set Start to Another Day ##
+If you started the readings on a previous day and have just switched to And Bible then select Menu from the Daily Reading screen and then select 'Set Start Date...'.  You may then jump to 'Move the current day to a specific day' below to skip over readings you have already done.
 
 ## Abandon Reading Plan ##
 Press Menu/Reset from the Daily Reading screen.
@@ -55,5 +66,5 @@ When in the Daily Reading screen select the second button in the toolbar.
 When in the Daily Reading screen select the second button in the toolbar.  Then select the required day from the list.
 
 ## Move the current day to a specific day ##
-This is useful if you have been using a reading plan externally from And Bible.  A sequence of actions might be i) select plan ii) Set start date to Jan 1st (as above) iii) Move the current day to a specific day (as below)
+This is useful if you have been using a reading plan externally from And Bible.  A sequence of actions might be i) select plan ii) Set start date to another day (as above) iii) Move the current day to a specific day (as below)
 Go to the day prior to the desired day as described in the above paragraph.  Select Menu/Done (not the normal Done button at the bottom) this bypasses checks and marks the current day as Done and the next day will become the current day.
