@@ -24,7 +24,7 @@ It is possible to skip days e.g. if you do not wish to a reading at the weekend.
 3=Gen.2, Matt.2
 ```
 
-You can also add a date-based reading plan, which includes the month and day number for each day. It must be in the format of 3 letters for the month, then dash and month day number followed by semicolon (;). E.g.
+You can also add a date-based reading plan, which includes the month and day number for each day. The only difference of this type of plan from the regular plan, is that the date-based plan will always open at today's date by default. The regular plan opens the current day, which is the day up to where you are done reading. It must be in the format of 3 letters for the month, then dash and month day number followed by semicolon (;). E.g.
 ```
 1=Jan-1;Gen.1-2,Ps.1-2,Matt.1-2
 2=Jan-2;Gen.3-4,Ps.3-5,Matt.3-4
