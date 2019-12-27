@@ -47,3 +47,15 @@ Example: feature/#100_improve_layout
 
 ## Building new jsword.jar for And Bible
 - See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
+
+## Making a new release 
+ 
+ - About 1-2 weeks before, `tx push -s` and call for translators 
+    - Write release notes on a ticket (see for example #474)
+    - Write translator context ticket (see for example #472)
+ - Prepare introduction video (See #475 for example)
+ - Check from f-droid if jsword or jsword-tweaks need an update
+ - Update Play Store & F-Droid & website description texts if needed
+ - Tag a release (vx.x.xxx)
+ - Make a facebook post
+
