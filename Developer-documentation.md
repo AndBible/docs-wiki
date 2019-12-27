@@ -53,9 +53,10 @@ Example: feature/#100_improve_layout
  - About 1-2 weeks before, `tx push -s` and call for translators 
     - Write release notes on a ticket (see for example #474)
     - Write translator context ticket (see for example #472)
+ - Increment major or minor version and release 'release candidate' (RC) in Play Store
  - Prepare introduction video (See #475 for example)
  - Check from f-droid if jsword or jsword-tweaks need an update
  - Update Play Store & F-Droid & website description texts if needed
- - Tag a release (vx.x.xxx)
+ - Tag a release (vx.x.xxx) and release in Play Store
+ - Tag a f-droid release (vx.x.xxx-fdroid) for new automatic f-droid build
  - Make a facebook post
-
