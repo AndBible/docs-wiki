@@ -56,6 +56,7 @@ Example: feature/#100_improve_layout
  - Increment major or minor version and release 'release candidate' (RC) in Play Store
  - Prepare introduction video (See #475 for example)
  - Check from f-droid if jsword or jsword-tweaks need an update
+ - Update translations (tx pull --force --minimum-perc 75)
  - Update Play Store & F-Droid & website description texts if needed
  - Tag a release (vx.x.xxx) and release in Play Store
  - Tag a f-droid release (vx.x.xxx-fdroid) for new automatic f-droid build
