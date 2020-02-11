@@ -34,6 +34,7 @@ Configuration for running tests in Android Studio:
 
 - Do not write too long lines (120 characters should be your guide)
 - Preferrably write new code in Kotlin (i.e. if you need to create new file, create Kotlin file) 
+- If you are planning to work on stuff that involves touching a lot of Java files, please discuss with Tuomas first. We are gradually migrating Java files to Kotlin and that should probably be done first.
 
 ### Branch naming
 
