@@ -49,8 +49,13 @@ Example: feature/#100_improve_layout
 ## Building new jsword.jar for And Bible
 - See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
 
+## Release testing
+ - Test fresh install
+ - Test migrations
+
 ## Making a new release 
- 
+
+ - Test release (see Release testing)
  - About 1-2 weeks before, `tx push -s` and call for translators 
     - Write release notes on a ticket (see for example #474)
     - Write translator context ticket (see for example #472)
