@@ -24,7 +24,7 @@ Configuration for running tests in Android Studio:
 
 ![Test configuration in Android Studio](https://user-images.githubusercontent.com/5811789/48984311-c4df5780-f102-11e8-937b-c5d438b79629.png)
 
-For running tests, you need to install test modules. There is one module in test modules package that we don't have permission to distribute publicly, so please contact @tuomas2 if you need to run tests. 
+For running tests, you need to install test modules. There is one module in test modules package that we don't have permission to distribute publicly, so please contact us (and-bible-support@googlegroups.com) if you need to run tests. 
 
 ## Contributing code
 
