@@ -74,3 +74,9 @@ The backup created by And Bible is a SqLite database file named andBibleDatabase
 You may wish to copy this file to your pc via usb after backup to ensure you do not lose any data.
 
 If you are having difficulty restoring i) ensure you have a copy of your backup file ii) do a backup and observe the location of the new andBibleDatabase.db iii) overwrite the 
+
+## Where is the exit button?
+
+You can exit the application like any other android application by going to home screen (via home button). 
+Android memory management might stop the application if it needs memory for other apps. In normal Android applications
+there is (and should not) be a specific exit button.
