@@ -12,10 +12,10 @@ This applies to And Bible 3.3 and later.
 
 ## Please add module X to And Bible!
 
-Modules to And Bible are provided primarily via JSword engine, which uses Sword modules by Crosswire. 
-Thus, you should make your requests to Crosswire modules team.
+Modules to And Bible are provided via JSword engine, which uses Sword modules by Crosswire and couple
+of other freely available module repositories. Thus, you should primarily make your requests to Crosswire modules team.
 
-You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/).
+You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/). See also their [FAQ](https://wiki.crosswire.org/EnduserFAQ).
 
 If the text is not copyrighted (i.e. it is public domain), there could be a shortcut to get it quickly to 
 And Bible. In that case, please contact us. 
