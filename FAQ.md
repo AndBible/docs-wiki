@@ -6,18 +6,9 @@ The publishers of the ESV have unfortunately decided it is not longer in their i
 
 We are in progress in investigating options to bring ESV back to And Bible. See [#390](https://github.com/AndBible/and-bible/issues/390).
 
-If you still have ESV on your other device use the following instruction to
-bring it to your new device:
-
-From your old device;
-1) use file manager and go to your Local SD storage `Android/data/net.bible.android.activity` and zip this directory with all its subdir 
-2) transfer this file to your new device.
-3) on the new device make sure AndBible app is closed.
-4) unzip the file and replace
-`Android/data/net.bible.android.activity`
-5) once the copy is complete open AndBible and ESV should be there.
-
-Note that this will bring all your translations, not just the ESV, from your old device to your new device.
+If you still have ESV on your other device, you can get ESV from your old device by backuping module and
+restoring on new device. Please see https://youtu.be/2zcme61EajQ how to do it via "backup modules" feature.
+This applies to And Bible 3.3 and later.
 
 ## Please add module X to And Bible!
 
