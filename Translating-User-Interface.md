@@ -1,7 +1,22 @@
 # User Interface Translation #
 
-If you would like to volunteer to translate the And Bible user interface into another language or to update an existing translation then either e-mail [And Bible Support](mailto:help.andbible@gmail.com) or volunteer via the And Bible discussion group.
+We are using a web based tool named [Transifex](https://www.transifex.com/) to manage and simplify user interface translation. You can go to our [Transifex project page](https://www.transifex.com/mjdenham/andbible/), and click there _Help Translate "And Bible"_ to get started. You need free Transifex account do the translation.
 
-We use a web based tool named [Transifex](https://www.transifex.com/) to manage and simplify user interface translation.  Both text from And Bible and JSword can be translated via Transifex.
+Please also send us email so that we recognize you in the project and get your email address: and-bible-support@googlegroups.com. Transifex does have "private messages" inside the platform, but I feel that sometimes email is more reliable to reach people.
 
-You can view the status of current translations [here](https://www.transifex.com/projects/p/andbible/).
+To be able to translate And Bible successfully you need:
+ - to have experience on And Bible and know more or less how it works and what it is 
+ - to know English well enough
+ - to have proficient skills in your own language (written form)
+ - As And Bible is an ongoing project which evolves all the time, you should also have some commitment to keep on updating translations of And Bible in the future version updates
+ 
+## Tips to get translations right ##
+
+To translate many of the user interface strings, you need to know the context in which the string is used in And Bible. We have added context instructions to some of the strings in Transifex. If some context still is not clear to you, you can
+
+- See earlier context screenshots that I post when releasing new versions: [3.3](https://github.com/AndBible/and-bible/issues/573), [3.2](https://github.com/AndBible/and-bible/issues/472), [2.13](https://github.com/AndBible/and-bible/issues/159).
+- raise an issue within Transifex 
+
+Sometimes existing strings get changed. In that case, you can utilize translation history to get translation done more easily. 
+
+
