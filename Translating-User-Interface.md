@@ -10,6 +10,16 @@ To be able to translate And Bible successfully you need:
  - to have proficient skills in your own language (written form)
  - As And Bible is an ongoing project which evolves all the time, you should also have some commitment to keep on updating translations of And Bible in the future version updates
  
+## Priorities in translation
+
+There are 5 translatable resources in Transifex: strings.xml, BibleNames, PlayStoreMainText.txt, PlayStoreShortText.txt and PlayStoreTitleText.txt.
+
+Translation priorities are like this:
+
+ - strings.xml: Please translate short items first. All of this is important to be translated, but if translation takes time several weeks, please prioritize your work such that easy and short strings will get ready sooner.
+ - BibleNames: if missing in your language, please translate basic names and abbreviations of bible book names. Apocrypha is not really high priority (unless it is for you personally), you can leave it for later or even leave alltogether.
+ - From PlayStore*.txt, *TitleText and *ShortText.txt are most important. PlayStoreMainText.txt can be left for later. Especially now (as of 26th june) we are planning to rewrite it soon, so it is not good idea to spend a lot of effort on translating it right now.
+
 ## Tips to get translations right ##
 
 To translate many of the user interface strings, you need to know the context in which the string is used in And Bible. We have added context instructions to some of the strings in Transifex. If some context still is not clear to you, you can
