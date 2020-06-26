@@ -12,7 +12,7 @@ To be able to translate And Bible successfully you need:
  
 ## Priorities in translation
 
-There are 5 translatable resources in Transifex: strings.xml, BibleNames, PlayStoreMainText.txt, PlayStoreShortText.txt and PlayStoreTitleText.txt.
+There are 5 translatable resources in Transifex: `strings.xml`, `BibleNames`, `PlayStoreMainText.txt`, `PlayStoreShortText.txt` and `PlayStoreTitleText.txt`.
 
 Translation priorities are like this:
 
