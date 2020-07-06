@@ -66,5 +66,7 @@ When in the Daily Reading screen select the second button in the toolbar.
 When in the Daily Reading screen select the second button in the toolbar.  Then select the required day from the list.
 
 ## Move the current day to a specific day ##
+**Note:** Starting in 3.3-beta (and 3.4 stable), you will be able to simply go to 3-dot menu on top right, and click "Set as current day".
+
 This is useful if you have been using a reading plan externally from And Bible.  A sequence of actions might be i) select plan ii) Set start date to another day (as above) iii) Move the current day to a specific day (as below)
 Go to the day prior to the desired day as described in the above paragraph.  Select Menu/Done (not the normal Done button at the bottom) this bypasses checks and marks the current day as Done and the next day will become the current day.
