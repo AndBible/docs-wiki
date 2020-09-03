@@ -71,6 +71,9 @@ Example: feature/#100_improve_layout
  - Check from f-droid if jsword or jsword-tweaks need an update
  - Update translations (tx pull --force --minimum-perc 75)
  - Update Play Store & F-Droid & website description texts if needed
+ - Merge develop to current-stable
+ - Create new release/ branch from current-stable
+ - Update .github/workflows/config.properties file
  - Tag a release (vx.x.xxx) and release in Play Store
  - Tag a f-droid release (vx.x.xxx-fdroid) for new automatic f-droid build
  - Make a facebook post
