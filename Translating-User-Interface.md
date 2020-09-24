@@ -18,7 +18,7 @@ Translation priorities are like this:
 
  - `strings.xml` contains all the user interface texts. Please translate short items first. All of this is important to be translated, but if translation takes time several weeks, please prioritize your work such that easy and short strings will get ready sooner.
  - `BibleNames` contains Bible book names and abbreviations. If these are missing in your language, please translate basic names and abbreviations of bible book names. Apocrypha is not really high priority (unless it is for you personally), you can leave it for later or even leave alltogether.
- - `PlayStore*.txt` and `Play Store main description` are texts for Google Play Store and F-Droid.  
+ - `PlayStore*.txt` and `Play Store main description` are texts for Google Play Store and F-Droid. Play Store main description will look like this in Play Store: [Play Store main description](https://docs.google.com/document/d/1qvYphf-YrGFT6-lwKvXV9b-v2bIFTng1zYMKDPNSUII/edit).
 
 ## Tips to get translations right ##
 
