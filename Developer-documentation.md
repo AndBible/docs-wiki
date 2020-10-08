@@ -58,9 +58,6 @@ Please name your branches in the following syntax: `<type>/#<issue-number>_<name
 
 Example: feature/#100_improve_layout
 
-## Building new jsword.jar for And Bible
-- See instructions at [jsword-tweaks](https://github.com/AndBible/jsword-tweaks) repository
-
 ## Release testing
  - Test fresh install
  - Test migrations
