@@ -70,9 +70,8 @@ Example: feature/#100_improve_layout
     - Write translator context ticket (see for example #472)
  - Increment major or minor version and release 'release candidate' (RC) in Play Store
  - Prepare introduction video (See #475 for example)
- - Check from f-droid if jsword or jsword-tweaks need an update
- - Update translations (tx pull --force --minimum-perc 75)
- - Update Play Store & F-Droid & website description texts if needed
+ - Update translations (`make tx-pull`)
+ - Update Play Store & F-Droid & website description texts if needed (`make fastlane-supply`)
  - Merge develop to current-stable
  - Create new release/ branch from current-stable
  - Update .github/workflows/config.properties file
