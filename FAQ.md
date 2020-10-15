@@ -16,7 +16,7 @@ Modules to And Bible are provided via JSword engine, which uses Sword modules by
 of other freely available module repositories. Thus, you should primarily make your requests to Crosswire modules team.
 
 You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/). See also their [FAQ](https://wiki.crosswire.org/EnduserFAQ) and their [
-Instructions how to contact copyright holders](https://wiki.crosswire.org/Copyright)
+Instructions how to contact copyright holders](https://wiki.crosswire.org/Copyright).
 
 If the text is not copyrighted (i.e. it is public domain), there could be a shortcut to get it quickly to 
 And Bible. In that case, please contact us. 
