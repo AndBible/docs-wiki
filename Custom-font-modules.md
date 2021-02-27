@@ -13,7 +13,7 @@ DistributionLicense=Free to distribute
 Category=And Bible
 ModDrv=RawGenBook
 InstallSize=501314
-MinimumAndBibleVersion=506
+AndBibleMinimumVersion=506
 AndBibleProvidesFont=Sileo TSR;and-bible/SILEOTSR.ttf
 AndBibleProvidesFont=SBL Hebrew;and-bible/SBL_Hbrw.ttf
 ```
