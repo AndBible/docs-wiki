@@ -1,3 +1,5 @@
+# Obsolete after And Bible 3.4
+
 # Using a Custom Stylesheet to Change the Look or Layout of And Bible #
 
 It is possible to change the colour, layout, or style of document text by creating a custom stylesheet.
