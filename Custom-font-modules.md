@@ -19,4 +19,6 @@ AndBibleProvidesFont=SBL Hebrew;and-bible/SBL_Hbrw.ttf
 ```
 
 Put your fonts in and-bible/ subfolder of your module folder, i.e. to 
-`./modules/texts/ztext/HebrewFonts/and-bible`
+`./modules/texts/ztext/HebrewFonts/and-bible`.
+
+`AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e. 3.3.506 -> 506).
