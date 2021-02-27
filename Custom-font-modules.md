@@ -1,4 +1,4 @@
-#Custom font modules for And Bible 3.4+
+#Custom font modules for And Bible 3.4+ (DRAFT)
 
 And Bible 3.4+ supports offering new fonts to users with custom addons modules.
 
