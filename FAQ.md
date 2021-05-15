@@ -84,7 +84,7 @@ there is (and should not) be a specific exit button.
 
 ## Where do the Bible translations for And Bible come from?
 
-All Bibles available in And Bible are either in the public domain or we have been granted permission to distribute. You can see a full list of them at these sites:
+All Bibles available in And Bible are either in the public domain or are licensed such that they are permitted for distribution. You can see a full list of them at these sites:
 * https://crosswire.org
 * https://ibtrussia.org
 * https://ebible.org
