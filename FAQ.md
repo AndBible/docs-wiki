@@ -81,3 +81,12 @@ If you are having difficulty restoring i) ensure you have a copy of your backup 
 You can exit the application like any other android application by going to home screen (via home button). 
 Android memory management might stop the application if it needs memory for other apps. In normal Android applications
 there is (and should not) be a specific exit button.
+
+## Where do the Bible translations for And Bible come from?
+
+All Bibles available in And Bible are in the public domain. You can see a full list of them at these sites:
+* https://crosswire.org
+* https://ibtrussia.org
+* https://ebible.org
+* https://public.modules.stepbible.org
+* https://andbible.github.io
