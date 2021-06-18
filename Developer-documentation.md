@@ -23,6 +23,10 @@ It is possible to install And Bible as 2 different IDs on your device. This is r
 
 Now when you build the app it will create a separate And Bible application on your device. **Please note** that both icons and app titles look exactly the same, so you have to figure out which one is which.
 
+## Coding And Bible
+
+I (Tuomas) am using (and recommend) Android Studio for native Android code and WebStorm for Vue.js / Javascript side. Free alternative (which I have heard is very good) for Vue.js / Javascript development is Visual Studio Code with Vetur extension which enables Vue.js support.
+
 ## Running tests
 
 Configuration for running tests in Android Studio:
