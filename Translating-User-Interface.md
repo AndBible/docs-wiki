@@ -12,7 +12,8 @@ To be able to translate And Bible successfully you need:
  
 ## Priorities in translation
 
-There are 5 translatable resources in Transifex: `strings.xml`, `BibleNames`, `Play Store texts`.
+There are 4 translatable resources in Transifex: `strings.xml`, 
+`bibleview.yaml`, `BibleNames`, `Play Store texts`.
 
 Translation priorities are like this:
 
