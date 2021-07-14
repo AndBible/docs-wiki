@@ -26,7 +26,7 @@ Translation priorities are like this:
 
 To translate many of the user interface strings, you need to know the context in which the string is used in And Bible. We have added context instructions to some of the strings in Transifex. If some context still is not clear to you, you can
 
-- See earlier context screenshots that I post when releasing new versions: [3.4](https://github.com/AndBible/and-bible/issues/1028) [3.3](https://github.com/AndBible/and-bible/issues/573), [3.2](https://github.com/AndBible/and-bible/issues/472), [2.13](https://github.com/AndBible/and-bible/issues/159).
+- See earlier context screenshots that I post when releasing new versions: [4.0](https://github.com/AndBible/and-bible/issues/1028) [3.3](https://github.com/AndBible/and-bible/issues/573), [3.2](https://github.com/AndBible/and-bible/issues/472), [2.13](https://github.com/AndBible/and-bible/issues/159).
 - raise an issue within Transifex 
 
 Sometimes existing strings get changed. In that case, you can utilize translation history to get translation done more easily. 
