@@ -2,7 +2,7 @@
 
 We are using a web based tool named [Transifex](https://www.transifex.com/) to manage and simplify user interface translation. You can go to our [Transifex project page](https://www.transifex.com/mjdenham/andbible/), and click there _Help Translate "And Bible"_ to get started. You need free Transifex account do the translation.
 
-Please also send us email so that we recognize you in the project and get your email address: and-bible-support@googlegroups.com. Transifex does have "private messages" inside the platform, but I feel that sometimes email is more reliable to reach people.
+Please also send us email so that we recognize you in the project and get your email address: help.andbible@gmail.com. Transifex does have "private messages" inside the platform, but I feel that sometimes email is more reliable to reach people.
 
 To be able to translate And Bible successfully you need:
  - to have experience on And Bible and know more or less how it works and what it is 
