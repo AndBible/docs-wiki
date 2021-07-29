@@ -56,3 +56,26 @@ Define your css in ./modules/texts/ztext/HISB/style/style.css as follows
     font-weight: bold;
 }
 ```
+
+## Global styling
+
+If you want to create a module that alters global style (i.e. how And Bible looks overall), you can create add-on module (i.e. put `Category=And Bible`) and add configuration `AndBibleProvidesStyle=True` line to the conf. 
+
+Example config 
+
+```
+[StyleExample]
+DataPath=./modules/texts/ztext/StyleExample/
+Version=1.0
+ShortPromo=Module that provides custom CSS and applies to all documents. Also provides example font.
+Description=Module that provides custom CSS and applies to all documents.
+DistributionLicense=Copyrighted; Freely distributable
+Category=And Bible
+ModDrv=RawGenBook
+InstallSize=194837
+AndBibleMinimumVersion=539
+AndBibleProvidesFont=Style Example Font;style/SILEOTSR.ttf
+AndBibleProvidesStyle=True
+AndBibleCSS=style/style.css
+```
+
