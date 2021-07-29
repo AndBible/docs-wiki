@@ -1,4 +1,4 @@
-# Custom CSS for modules for And Bible (And Bible 3.4+) (DRAFT)
+# Custom CSS for modules for And Bible (And Bible 4.0+) (DRAFT)
 
 And Bible offers option to include custom CSS and fonts in module zip files.
 Place your CSS file under module directory (or subdirectory), and define CSS file path in config file with
