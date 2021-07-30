@@ -79,3 +79,6 @@ AndBibleProvidesStyle=True
 AndBibleCSS=style/style.css
 ```
 
+## Debugging css
+
+Please see [Android Webview Remote debugging guide](https://developer.chrome.com/docs/devtools/remote-debugging/) to see how you can investigate how to manipulate css.
