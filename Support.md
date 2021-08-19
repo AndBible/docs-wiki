@@ -3,6 +3,7 @@
 You can ask questions directly from development team
 
 - via email: help.andbible@gmail.com.
+- via [Telegram group](https://t.me/andbible)
 - via [Github support issues](https://github.com/AndBible/and-bible/issues/new/choose)
 
 We also have emailing list [at Google Groups](https://groups.google.com/g/and-bible).
