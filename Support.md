@@ -1,12 +1,12 @@
 # Need help? 
 
+You can ask questions that other users might be able to answer:
+ - via [Telegram users group](https://t.me/andbible)
+ - Mailing list [at Google Groups](https://groups.google.com/g/and-bible).
+
 You can ask questions directly from development team
-
-- via email: help.andbible@gmail.com.
-- via [Telegram group](https://t.me/andbible)
-- via [Github support issues](https://github.com/AndBible/and-bible/issues/new/choose)
-
-We also have emailing list [at Google Groups](https://groups.google.com/g/and-bible).
+ - via email: help.andbible@gmail.com.
+ - via [Github support issues](https://github.com/AndBible/and-bible/issues/new/choose)
 
 Please report bugs primarily via `Main menu > report bug.` That way we get some information that helps us
 fixing the bug. You can also report bugs [directly via github](https://github.com/AndBible/and-bible/issues/new/choose).
