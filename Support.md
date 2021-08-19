@@ -1,4 +1,4 @@
-# Need help? 
+# Do you need help with the Bible Study App (And Bible)? 
 
 You can ask questions that other users might be able to answer:
  - via [Telegram users group](https://t.me/andbible)
