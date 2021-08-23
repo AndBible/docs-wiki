@@ -1,4 +1,4 @@
-# Do you need help with the Bible Study App (And Bible)? 
+# Do you need help with And Bible? 
 
 You can ask questions that other users might be able to answer:
  - via _And Bible users_ group in [Telegram](https://t.me/andbible)/[Matrix](https://matrix.to/#/#andbible:matrix.org) (those are connected, so you can choose which you like better)
