@@ -1,7 +1,7 @@
 # Do you need help with the Bible Study App (And Bible)? 
 
 You can ask questions that other users might be able to answer:
- - via [Telegram users group](https://t.me/andbible) or [Matrix](https://matrix.to/#/#andbible:matrix.org) (those are connected via bridging)
+ - via And Bible users discussion group in [Telegram](https://t.me/andbible) or [Matrix](https://matrix.to/#/#andbible:matrix.org) (those are connected via bridging)
  - Mailing list [at Google Groups](https://groups.google.com/g/and-bible).
 
 You can ask questions directly from development team
