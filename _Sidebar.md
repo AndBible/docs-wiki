@@ -6,7 +6,7 @@
   * [Developer documentation](https://github.com/AndBible/and-bible/wiki/Developer-documentation)
   * [Translate User Interface](https://github.com/AndBible/and-bible/wiki/Translating-User-Interface)
   * [Beta testing](https://github.com/AndBible/and-bible/wiki/Beta-testing)
-  * [Include new Bible translations](https://github.com/AndBible/and-bible/wiki/Get-permission-to-make-more-Bibles-available)
+  * [Find new Bible translations](https://github.com/AndBible/and-bible/wiki/Get-permission-to-make-more-Bibles-available)
 * [Backup & Restore](https://github.com/AndBible/and-bible/wiki/Backup-&-Restore)
 * [Reading Plans](https://github.com/AndBible/and-bible/wiki/Reading-Plans)
 * And Bible Advanced Usage
