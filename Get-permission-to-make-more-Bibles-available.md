@@ -1,0 +1,1 @@
+We often have requests for additional Bible versions. Perhaps you can help us get the necessary permissions from Bible publishers to include more Bibles or commentaries or other documents in And Bible. Please contact us if you can!
