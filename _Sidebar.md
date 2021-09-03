@@ -16,5 +16,6 @@
   * [Custom CSS (obsolete after 3.3)](https://github.com/AndBible/and-bible/wiki/Custom-CSS-for-And-Bible)
   * [Font framework (obsolete after 3.3)](https://github.com/AndBible/and-bible/wiki/Font-Framework)
 * [Release Notes](https://github.com/AndBible/and-bible/wiki/Release-Notes)
+  * [v4.0](https://github.com/AndBible/and-bible/wiki/v4.0-Release-Notes)
 * [People](https://github.com/AndBible/and-bible/wiki/People)
 * [Privacy Policy](https://github.com/AndBible/and-bible/wiki/Privacy-Policy)
