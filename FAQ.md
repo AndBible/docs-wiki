@@ -90,3 +90,13 @@ All documents available in And Bible are either in the public domain or are lice
 * https://ebible.org
 * https://public.modules.stepbible.org
 * https://andbible.github.io
+
+## How do I downgrade from 4.0 to 3.3?
+
+Go to Main menu > backup & restore
+
+1. From under Import & Export title, select earlier backup to be exported (until 1 month these are preserved). 
+2. Back up it somewhere. 
+3. Then uninstall app. 
+4. Then install 3.3 from [Github Releases page](https://github.com/AndBible/and-bible/releases/tag/production-400). 
+5. Then from Main Menu > Backup & Restore, restore the backup file that you just exported from 4.0.
