@@ -101,3 +101,4 @@ Go to Main menu > Backup & Restore
 4. Then uninstall app. 
 5. Then install 3.3 from [Github Releases page](https://github.com/AndBible/and-bible/releases/tag/production-400). This will probably prompt you to allow installs from Unknown Sources. Change the setting so you can install v3.3.
 6. Then from Main Menu > Backup & Restore, restore the backup file that you just exported from v4.
+7. To make sure, And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play. 
