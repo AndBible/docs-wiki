@@ -46,7 +46,8 @@ If you are using Google Text To Speech Engine in particular (which you can also 
 
 No, unfortunately this app is exclusively for Android at the moment, and there are no 
 plans to make it for iPhone, as long as there are no easy paths of porting native Android
-apps to iOS.
+apps to iOS. It would require a passionate professional IOS developer volunteer with significant 
+amount of time available for contributions to join the project to get that done. 
 
 For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
 
