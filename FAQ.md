@@ -96,10 +96,9 @@ All documents available in And Bible are either in the public domain or are lice
 
 Go to Main menu > Backup & Restore
 
-1. From under 'Import & Export', select an earlier backup to be exported (it is preserved for 1 month). 
-2. Back up file called `dbBackup-33-*.db` (where * is timestamp) somewhere. 
-3. You might want to back up also modules, from the same screen.
-4. Then uninstall app. 
-5. Then install 3.3 from [Github Releases page](https://github.com/AndBible/and-bible/releases/tag/production-400). This will probably prompt you to allow installs from Unknown Sources. Change the setting so you can install v3.3.
-6. Then from Main Menu > Backup & Restore, restore the backup file that you just exported from v4.
-7. To make sure, And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play (or in any other App store you that are using that provides And Bible). 
+1. From under 'Import & Export', select an earlier backup (file called `dbBackup-33-*.db` (where * is timestamp)) to be exported (it is preserved for 1 month). Back it up somewhere. 
+2. You might want to back up also modules, from the same screen.
+3. Then uninstall app. 
+4. Then install 3.3 from [Github Releases page](https://github.com/AndBible/and-bible/releases/tag/production-400). This will probably prompt you to allow installs from Unknown Sources. Change the setting so you can install v3.3.
+5. Then from Main Menu > Backup & Restore, restore the backup file that you just exported from v4.
+6. To make sure, And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play (or in any other App store you that are using that provides And Bible). 
