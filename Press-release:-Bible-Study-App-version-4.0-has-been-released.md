@@ -9,7 +9,7 @@ Contact: [help.andbible@gmail.com](mailto:help.andbible@gmail.com)
 2th October 2021
 
 ## Bible Study App 4.0 has been released!
-New version of Bible Study App by And Bible Open Source Project has been released and is now available in [Play Store](https://play.google.com/store/apps/details?id=net.bible.android.activity), [F-Droid](https://f-droid.org/packages/net.bible.android.activity/), [Github](https://github.com/AndBible/and-bible/releases), Samsung Galaxy Store, Huawei AppGallery and in Amazon App Store (soon). This is the biggest And Bible release ever made and has improvements of over one year of development work. 
+New version (4.0) of Bible Study App by And Bible Open Source Project has been released and is now available in [Play Store](https://play.google.com/store/apps/details?id=net.bible.android.activity), [F-Droid](https://f-droid.org/packages/net.bible.android.activity/), [Github](https://github.com/AndBible/and-bible/releases), Samsung Galaxy Store, Huawei AppGallery and in Amazon App Store (soon). This is the biggest And Bible release ever made and has improvements of over one year of development work. 
 
 **Highlights**:
 * Character accurate bookmarks
