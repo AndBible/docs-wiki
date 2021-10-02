@@ -1,1 +1,1 @@
-[Link to press release page has changed, please see this instead](https://github.com/AndBible/and-bible/wiki/Press-release:-Bible-Study-App-version-4.0-has-been-released)
+# [Link to press release page has changed, please see this instead](https://github.com/AndBible/and-bible/wiki/Press-release:-Bible-Study-App-version-4.0-has-been-released)
