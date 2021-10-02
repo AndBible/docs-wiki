@@ -19,6 +19,6 @@
 * [Release Notes](https://github.com/AndBible/and-bible/wiki/Release-Notes)
   * [v4.0](https://github.com/AndBible/and-bible/wiki/v4.0-Release-Notes)
 * Press releases
-  * [Bible Study App version 4.0 has been released!](https://github.com/AndBible/and-bible/wiki/Press-release:-Bible-Study-App-version-4.0-has-been-released!)
+  * [Bible Study App version 4.0 has been released!](https://github.com/AndBible/and-bible/wiki/Press-release:-Bible-Study-App-version-4.0-has-been-released)
 * [People](https://github.com/AndBible/and-bible/wiki/People)
 * [Privacy Policy](https://github.com/AndBible/and-bible/wiki/Privacy-Policy)
