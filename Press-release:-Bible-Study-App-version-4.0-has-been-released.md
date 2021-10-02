@@ -21,7 +21,7 @@ New version of Bible Study App by And Bible Open Source Project has been release
 See [Release notes](https://github.com/AndBible/and-bible/wiki/v4.0-Release-Notes) for more details.
 
 **Videos**:
-* ["What's new" video](https://youtu.be/f2cf6-7liM) 
+* ["What's new" video](https://youtu.be/f2cf6-7liMo) 
 * [Promotional video](https://youtu.be/xf7m4rSuxGw) (share this via social media!) 
 * [Tutorials (playlist)](https://www.youtube.com/playlist?list=PLD-W_Iw-N2Mn5N3KSmNsb2IuBbR1XVLke) 
 
