@@ -94,7 +94,7 @@ All documents available in And Bible are either in the public domain or are lice
 
 ## How do I downgrade from 4.0 to 3.3?
 
-**DON'T uninstall the app yet. This will remove all data including the automatic backup that was created when the update to v4 happened.**
+**DON'T uninstall the app yet.** This will remove all data including the automatic backup that was created when the update to v4 happened.
 
 Go to `Main menu > Backup & Restore`
 1. From under `Import & Export`, select an earlier backup (file called `dbBackup-33-*.db` (where * is timestamp)) to be exported (it is preserved for 1 month). Back it up somewhere - either on your device or send it to yourself. **Make sure this file has been saved correctly**. 
