@@ -23,14 +23,13 @@ And Bible. In that case, please contact us.
 
 ## I found text issue in one of the Bible / Commentary etc. modules in And Bible. 
 
-And Bible developers don't fix module issues. Modules to And Bible are provided primarily
-via JSword engine, which uses Sword modules by Crosswire. Thus, you should report your problem 
-to Crosswire modules team.
+And Bible developers don't fix module issues. Modules to And Bible are provided primarily via JSword engine, which uses Sword modules by multiple providers. You can determine who provides the module from the Download Documents list. If you have an issue we encourage you to contact them directly.
 
-You can report module issues directly via their [issue tracker](https://tracker.crosswire.org/projects/MOD/)
+**Crosswire:** Use their [issue tracker](https://tracker.crosswire.org/projects/MOD/)  You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/).
 
-You can also get in touch with them via email to their [email list](https://www.crosswire.org/mailman/listinfo/sword-devel) or via their other [contact methods](http://crosswire.org/contact/).
+**eBible:** Submit a message through their [online form](https://ebible.org/cgi-bin/contact.cgi)
 
+**AndBible/AndBible Extra:** Raise and issue on our [Github issues page](https://github.com/AndBible/and-bible/issues)
 
 ## I have older phone, that doesn't have Android 4.4+. Can I use And Bible?
 
