@@ -11,7 +11,7 @@ For night mode, prefix everything with .night class.
 
 If you have used `<hi type="my-type">` tag in your module, you can define css for your tags with `.hi-my-type` class definitions.
 
-Example:
+Example (https://github.com/AndBible/special-modules/tree/master/HISB):
 
 mods.d/HISB.conf
 
