@@ -15,7 +15,7 @@ Feel free to also [suggest new features](https://github.com/AndBible/and-bible/i
 
 Please refrain from asking questions via Play Store. Use above support channels instead. Thank you!
 
-## Tutorials
+# Tutorials
 - [Creating and Configuring Windows](https://youtu.be/N7awlmZXFdQ)
 - [Introduction to Document Windows](https://youtu.be/mKxEuQX-oX0)
 - [Comparing verses](https://youtu.be/wFG-vlSow6E)
