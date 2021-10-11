@@ -1,5 +1,19 @@
 # And Bible FAQ #
 
+### Contents
+- [I can't find ESV any more in Downloads. What's wrong?](https://github.com/AndBible/and-bible/wiki/FAQ#i-cant-find-esv-any-more-in-downloads-whats-wrong)
+- [Please add module X to And Bible!](https://github.com/AndBible/and-bible/wiki/FAQ#please-add-module-x-to-and-bible)
+- [I found text issue in one of the Bible / Commentary etc. modules in And Bible](https://github.com/AndBible/and-bible/wiki/FAQ#i-found-text-issue-in-one-of-the-bible--commentary-etc-modules-in-and-bible)
+- [I have older phone, that doesn't have Android 4.4+. Can I use And Bible?](https://github.com/AndBible/and-bible/wiki/FAQ#i-have-older-phone-that-doesnt-have-android-44-can-i-use-and-bible)
+- [Is there any way to change the voice of the speech synthesis in And Bible?](https://github.com/AndBible/and-bible/wiki/FAQ#is-there-any-way-to-change-the-voice-of-the-speech-synthesis-in-and-bible)
+- [Is there version for iOS (Apple iPhone / iPad) in plans?](https://github.com/AndBible/and-bible/wiki/FAQ#is-there-version-for-ios-apple-iphone--ipad-in-plans)
+- [I have downloaded one Bible but how do I download more Bibles, commentaries etc.](https://github.com/AndBible/and-bible/wiki/FAQ#i-have-downloaded-one-bible-but-how-do-i-download-more-bibles-commentaries-etc)
+- [Where is the Menu button?](https://github.com/AndBible/and-bible/wiki/FAQ#where-is-the-menu-button)
+- [How do I copy My Notes and Bookmarks to my new phone?](https://github.com/AndBible/and-bible/wiki/FAQ#how-do-i-copy-my-notes-and-bookmarks-to-my-new-phone)
+- [Where is the exit button?](https://github.com/AndBible/and-bible/wiki/FAQ#where-is-the-exit-button)
+- [Where do the Bible translations for And Bible come from?](https://github.com/AndBible/and-bible/wiki/FAQ#where-do-the-bible-translations-for-and-bible-come-from)
+- [How do I downgrade from 4.0 to 3.3?](https://github.com/AndBible/and-bible/wiki/FAQ#how-do-i-downgrade-from-40-to-33)
+
 ## I can't find ESV any more in Downloads. What's wrong?
 
 The publishers of the ESV have unfortunately decided it is not longer in their interest to publish towards SWORD platform (by Crosswire Bible Society) which And Bible is using.
@@ -50,17 +64,17 @@ amount of time available for contributions to join the project to get that done.
 
 For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
 
-## I have downloaded one bible but how do I download more bibles, commentaries etc. ##
+## I have downloaded one Bible but how do I download more Bibles, commentaries etc. ##
 
-To download bibles, commentaries, and books start And Bible and select Menu button (see 'Where is the Menu Button' below) / More / Download Documents.
+To download Bibles, commentaries, and books start And Bible and select Menu button (see 'Where is the Menu Button' below) / More / Download Documents.
 
 Downloads are best done when connected via WiFi but you can download using your normal mobile data connection.
 
-## Where is the Menu button ##
+## Where is the Menu button?
 
 The Menu button is not always clearly visible on some recent phones.  Sometimes it is represented by 4 horizontal lines or 3 vertical dots.  Recent HTC devices may have a stripe along the bottom of the screen containing only 3 dots, or you may need to long-press the App-switcher or Home button.  The Acer Z3 requires that you double tap the multitask button.
 
-## How do I copy My Notes and Bookmarks to my new phone ##
+## How do I copy My Notes and Bookmarks to my new phone?
 
 This is done by backing up on one phone and restoring on the other.
   * On the old phone select Menu/More/Backup/Backup
