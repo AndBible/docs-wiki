@@ -11,4 +11,4 @@ And Bible is an open-source community project. In practice, this means that anyo
 - And last, help us [develop new features](https://github.com/AndBible/and-bible/issues?q=is%3Aissue+is%3Aopen+label%3A%22Type%3A+Feature%22) especially if you master Kotlin / Java / Javascript / Vue.js (of course you can learn these by doing if you are familiar with programming of any sort),
 
 
-If you think you might be able to help with something above mentioned or something completely different, please send us [email](mailto:help.andbible@gmail.com) and we will help you get started!  
+If you think you might be able to help with something mentioned above or something completely different, please send us an [email](mailto:help.andbible@gmail.com) and we will help you get started!  
