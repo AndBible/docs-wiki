@@ -64,7 +64,7 @@ amount of time available for contributions to join the project to get that done.
 
 Our recommended options:
  - consider buying a cheap Android tablet device (however, preferrably with most recent Android version)
-to take advantage of our app. For something like 50-100€ you will get more than enough power to run our app (yes, it does not need to be that powerfull).
+to take advantage of our app. For something like 50-100€ you will get more than enough power to run our app (yes, it does not need to be that powerfull). Tablet device is best suited for using And Bible as you will surely appreciate the extra cm²s it provides when studying the Bible with multiple windows. 
  - You could run the app on Windows 11 (it runs Android apps)
  - You could install [MEmu](https://www.memuplay.com/) or [BlueStack](https://www.bluestacks.com/) to run it emulated on older Windows versions or Mac OSX
  - For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
