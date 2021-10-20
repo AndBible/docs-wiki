@@ -62,7 +62,12 @@ plans to make it for iPhone, as long as there are no easy paths of porting nativ
 apps to iOS. It would require a passionate professional IOS developer volunteer with significant 
 amount of time available for contributions to join the project to get that done. 
 
-For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
+Our recommended options:
+ - consider buying a cheap Android tablet device (however, preferrably with most recent Android version)
+to take advantage of our app. For something like 50-100€ you will get more than enough power to run our app (yes, it does not need to be that powerfull).
+ - You could run the app on Windows 11 (it runs Android apps)
+ - You could install [MEmu](https://www.memuplay.com/) or [BlueStack](https://www.bluestacks.com/) to run it emulated on older Windows versions or Mac OSX
+ - For iPhone, there is another sword-based app, called PocketSword, that you might want to try. 
 
 ## I have downloaded one Bible but how do I download more Bibles, commentaries etc. ##
 
