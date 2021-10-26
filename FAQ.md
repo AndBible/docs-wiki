@@ -124,3 +124,5 @@ Go to `Main menu > Backup & Restore`
 To make sure, And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play (or in any other App store you that are using that provides And Bible). 
 
 Please note that using version 3.3 or lower is completely unsupported. You are on your own now. It might stop working any time, might not work on newer devices, it might not possible to make module downloads in the future etc, new modules might not work there etc etc. On the other hand, we are working hard on making v4 work for everyone.
+
+Short link to this section: https://andbible.org/go/d43
