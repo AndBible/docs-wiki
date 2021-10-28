@@ -12,6 +12,7 @@
 - [How do I copy My Notes and Bookmarks to my new phone?](https://github.com/AndBible/and-bible/wiki/FAQ#how-do-i-copy-my-notes-and-bookmarks-to-my-new-phone)
 - [Where is the exit button?](https://github.com/AndBible/and-bible/wiki/FAQ#where-is-the-exit-button)
 - [Where do the Bible translations for And Bible come from?](https://github.com/AndBible/and-bible/wiki/FAQ#where-do-the-bible-translations-for-and-bible-come-from)
+- [This app used to be great, but now it is total garbage! Why are you doing this?]()
 - [How do I downgrade from 4.0 to 3.3?](https://github.com/AndBible/and-bible/wiki/FAQ#how-do-i-downgrade-from-40-to-33)
 
 ## I can't find ESV any more in Downloads. What's wrong?
