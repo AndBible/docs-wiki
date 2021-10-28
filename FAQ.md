@@ -125,9 +125,9 @@ Our priorities are as follows:
  1. to be very advanced bible study tool that enables powerful bible study experience, without being overwhelming to users.
  2. to be a simple-to use bible app.
 
-If these priorities are in conflict, the first overrides second. 
+If these priorities are in conflict, the first overrides the second. 
 
-Sometimes, we have to change existing functionality (that users have got used to) to something else, to enable new, more advanced features. If that is the case, we try to make “new way of doing things” at least as good, if not better than earlier functionality. 
+Sometimes, we have to change existing functionality (that users have got used to) to something else, to enable new, more advanced features. If that is the case, we try to make “new way of doing things” at least as good, if not better than earlier functionality. To the new users, user experience should always improve. 
 
 If you have trouble in using new version of app, please see first our [tutorial videos](https://www.youtube.com/playlist?list=PLD-W_Iw-N2Mn5N3KSmNsb2IuBbR1XVLke). They are there to help you getting around with the app.
 
