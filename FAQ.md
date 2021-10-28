@@ -110,6 +110,26 @@ All documents available in And Bible are either in the public domain or are lice
 * https://public.modules.stepbible.org
 * https://andbible.github.io
 
+## This app used to be great, but now it is total garbage! Why are you doing this?
+
+Everyone has their opinion about the app and how it is changing. Obviously, we, the developers, love the changes we make. It has appeared, that also vast majority of users are loving them as well. But some do not. We have complaints that
+
+- things are getting more complicated
+- something that user could do earlier, he can’t do any more.
+
+We try to keep app easy to use. However, this app is not for everyone. If user wants to “simply read bible on mobile phone” there are vast amount of apps that can do that. 
+
+Our priorities are as follows:
+
+ 1. to be very advanced bible study tool that enables powerful bible study experience, without being overwhelming to users.
+ 2. to be a simple-to use bible app.
+
+If these priorities are in conflict, the first overrides second. 
+
+Sometimes, we have to change existing functionality (that users have got used to) to something else, to enable new, more advanced features. If that is the case, we try to make “new way of doing things” at least as good, if not better than earlier functionality. 
+
+If you have trouble in using new version of app, please see first our [tutorial videos](https://www.youtube.com/playlist?list=PLD-W_Iw-N2Mn5N3KSmNsb2IuBbR1XVLke). They are there to help you getting around with the app.
+
 ## How do I downgrade from 4.0 to 3.3?
 
 **DON'T uninstall the app yet.** This will remove all data including the automatic backup that was created when the update to v4 happened.
