@@ -115,8 +115,9 @@ All documents available in And Bible are either in the public domain or are lice
 
 Everyone has their opinion about the app and how it is changing. Obviously, we, the developers, love the changes we make. It has appeared, that also vast majority of users are loving them as well. But some do not. We have complaints that
 
-- things are getting more complicated
-- something that user could do earlier, he can’t do any more.
+- things are getting more complicated (for new user might be more simple actually).
+- something that user could do earlier, I can’t do any more. (most likely not true actually)
+- etc.
 
 We try to keep app easy to use. However, this app is not for everyone. If user wants to “simply read bible on mobile phone” there are vast amount of apps that can do that. 
 
