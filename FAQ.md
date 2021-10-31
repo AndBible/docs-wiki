@@ -143,8 +143,8 @@ Go to `Main menu > Backup & Restore`
 4. Then install 3.3 from [Github Releases page](https://github.com/AndBible/and-bible/releases/tag/production-400). This will probably prompt you to allow installs from Unknown Sources. Change the setting so you can install v3.3.
 5. Then from `Main Menu > Backup & Restore`, restore the backup file that you just exported from v4.
 
-To make sure, And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play (or in any other App store you that are using that provides And Bible). 
+To make sure And Bible does not get upgraded automatically, you might need check your auto-update settings in Google Play (or in any other App store you that are using that provides And Bible). 
 
-Please note that using version 3.3 or lower is completely unsupported. You are on your own now. It might stop working any time, might not work on newer devices, it might not possible to make module downloads in the future etc, new modules might not work there etc etc. On the other hand, we are working hard on making v4 work for everyone.
+Please note that using version 3.3 or lower is unsupported. It might stop working any time, might not work on newer devices, it might not be possible to make module downloads in the future etc, new modules might not work there etc etc. On the other hand, we are working hard on making v4 work for everyone.
 
 Short link to this section: https://andbible.org/go/d43
