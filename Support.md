@@ -15,7 +15,7 @@ Feel free to also [suggest new features](https://github.com/AndBible/and-bible/i
 
 Please refrain from asking questions via Play Store. Use above support channels instead. Thank you!
 
-# Tutorials
+# Tutorial videos
 - [New Features in Bible Study App v4.0](https://youtu.be/f2cf6-7liMo)
 - [Bible Study App (Introduction to v4.0)](https://youtu.be/xf7m4rSuxGw)
 - [Creating and Configuring Windows](https://youtu.be/N7awlmZXFdQ)
