@@ -1,6 +1,6 @@
 * [Home](https://github.com/AndBible/and-bible/wiki)
 * [Support](https://github.com/AndBible/and-bible/wiki/Support)
-  * [Tutorials](https://github.com/AndBible/and-bible/wiki/Support#tutorials)
+  * [Tutorials](https://github.com/AndBible/and-bible/wiki/Support#tutorial-videos)
 * [FAQ (English)](https://github.com/AndBible/and-bible/wiki/FAQ)
   * [Finnish](https://github.com/AndBible/and-bible/wiki/Finnish-FAQ)
 * [How to contribute](https://github.com/AndBible/and-bible/wiki/How-to-contribute)
