@@ -19,7 +19,7 @@ While running And Bible in emulator, I'm using the following configuration:
 ![Selection_014](https://user-images.githubusercontent.com/5811789/56358437-42595080-61e7-11e9-98a5-4cf5903049c3.png)
 
 Other steps which may be required:
-1. In Android Studio, enable 'Google Play Licensing Library'. Tools > SDK Manager > Android SDK > SDK Tools
+1. In Android Studio, enable 'Google Play Licensing Library' via Tools > SDK Manager > Android SDK > SDK Tools
 ### Run separate debug app on your device
 It is possible to install And Bible as 2 different IDs on your device. This is really having 2 installs of And Bible on one device. To build the debug version as a separate app, simply open `local.properties` file (which is in the root of the development project), and add this line at the bottom: `APP_SUFFIX=.debug`
 
