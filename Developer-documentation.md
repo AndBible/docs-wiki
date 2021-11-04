@@ -3,7 +3,7 @@
 ## Building And Bible
 
 1. Download and Install [Android Studio](http://developer.android.com/sdk).
-* Enable 'Google Play Licensing Library'. Tools > SDK Manager > Android SDK > SDK Tools
+** Enable 'Google Play Licensing Library'. Tools > SDK Manager > Android SDK > SDK Tools
 2. Install node.js from [http://nodejs.org/](http://nodejs.org/).
 3. Open a Terminal/command prompt.
 4. Create a directory e.g. 'mydevdir' and change to that directory.
