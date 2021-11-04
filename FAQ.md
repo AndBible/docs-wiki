@@ -113,24 +113,43 @@ All documents available in And Bible are either in the public domain or are lice
 
 ## This app used to be great, but now it is total garbage! Why are you doing this?
 
-Everyone has their opinion about the app and how it is changing. Obviously, we, the developers, love the changes we make. It has appeared, that also vast majority of users are loving them as well. But some do not. We have complaints that
+Everyone has their opinion about the app and how it is changing. Obviously
+we, the developers, love the changes we make. It appears that a majority
+of users love them as well -- but some do not. Some complaints we have
+heard:
 
-- things are getting more complicated (for new user might be more simple actually).
-- something that user could do earlier, I can’t do any more. (most likely not true actually)
-- etc.
+### You made it slower. Why?
+On reasonably new devices (less than 3 years old) it still functions very well. But it is a little slower due to the inclusion of new functionality. Android 8 and 8.1 devices also are impacted by Chrome bug (see #1765 and #1756) that hopefully will be resolved with a future Google Chrome update.
 
-We try to keep app easy to use. However, this app is not for everyone. If user wants to “simply read bible on mobile phone” there are vast amount of apps that can do that. 
+### You've changed things! Why?
+Two main reasons. 
 
-Our priorities are as follows:
+1. We wanted to add new functionality that we think is valuable. 
+2. We wanted to make it easier for new users.
 
- 1. to be very advanced bible study tool that enables powerful bible study experience, without being overwhelming to users.
- 2. to be a simple-to use bible app.
+We think we are achieving this but time will tell. Existing users are harder to please because they have got used to the way things are done. One of the biggest changes (in 4.0) was the 'single-tap' verse action dialog. This makes bookmarking, comparing, sharing, and more much faster and easier. And it allows for more features in the future.
 
-If these priorities are in conflict, the first overrides the second. 
+### You made things harder! Why?
+We have made some things different but we don't believe they are necessarily harder. In fact we spend a lot of time trying to make things easier. But sometimes new features force changes to old ways of doing things.
 
-Sometimes, we have to change existing functionality (that users have got used to) to something else, to enable new, more advanced features. If that is the case, we try to make “new way of doing things” at least as good, if not better than earlier functionality. To the new users, user experience should always improve. 
+### You removed my favourite function! Why?
+It is very rare that we remove functionality. It is more likely that the functionality is now performed differently. Check the video tutorials or contact us and we can help.
 
-If you have trouble in using new version of app, please see first our [tutorial videos](https://www.youtube.com/playlist?list=PLD-W_Iw-N2Mn5N3KSmNsb2IuBbR1XVLke). They are there to help you getting around with the app.
+### I just want the old app back.
+We add features that we want in a Bible app. One of the advantages of doing this work for free is that we can choose what we think is important to us. We are sorry if you don't like it. But all our hard work is freely available so you could go back to the old app or even make your own (or pay someone to do it for you). But [here is how you can get it](https://github.com/AndBible/and-bible/wiki/FAQ#how-do-i-downgrade-from-40-to-33).
+
+### You added bugs. Why?
+We did a lot of testing - months - before releasing it to the general community. There were no serious bugs when it was released. But the trouble with Android devices is there are SO many of them and they do things quite differently. Many bugs related to older devices. Some bugs related to particular manufactures. 
+
+### Do you listen to your users?
+Absolutely! Many changes have been made as a result of listening to suggestions. And we encourage you to submit your suggestions on our github page so we can discuss them with you.
+
+
+### Tutorial videos are there for you!
+
+If you have trouble in using the latest version of app, please first see
+our [tutorial videos](https://www.youtube.com/playlist?list=PLD-W_Iw-N2Mn5N3KSmNsb2IuBbR1XVLke).
+They are there to help you get around the app.
 
 ## How do I downgrade from 4.0 to 3.3?
 
