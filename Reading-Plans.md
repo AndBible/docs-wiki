@@ -1,14 +1,42 @@
-# Reading Plan #
-
-Reading plans are accessible via Menu/More/Reading Plan.
+Reading plans are accessible via main menu (left) > Reading Plan.
 
 On first access you select a plan and are taken to the Daily Reading screen for the first day.
 
-The Done button will be enabled after pressing Speak or Passage for each passage.  Done causes the Daily Reading to move to the next day and if you are behind will take you to the next day's readings.
+The Done button will be enabled after pressing Speak or Passage for each passage, or after you've tapped each checkbox (which you might use if you're reading in a paper Bible). "Done" marks the current day as complete and if you are behind will take you to the next day's readings.
 
-## Custom Reading Plans ##
+## Custom Reading Plans
 It is possible to create a custom reading plan for use with And Bible.
 
+Beginning in version 4.0 (September 2021), there is a new module format that can be used for reading plans. The `.properties` file remains the same, but the path in `jsword/readingplan` no longer works on Android 10+, so we have made a new way that reading plans can be imported like other commentaries and Bibles, in `.zip` format. The `jsword/readingplan` path will continue to work for Android versions lower than 10.
+
+### The `.zip` format
+For a sample reading plan in `.zip` format, please see [this file](https://andbible.github.io/data/andbible/beta/zip/NinetyDaysReadingPlan.zip). This is the complete file that is ready to import into And Bible. It can be imported from "Backup & Restore" in the main menu, or from the Reading Plan screen 3-dot menu.
+
+The zip compressed folder contains a `mods.d` and a `modules` directory. The `mods.d` folder contains the `.conf` file. The modules folder contains the `.properties` file, however, the modules directory often has a longer path of folders to the `.properties` file. See the `.conf` file "DataPath" property below for an example.
+
+### The `.conf` file
+For a sample `.conf` file, please see [this file](https://andbible.github.io/data/andbible/beta/mods.d/NinetyDaysReadingPlan.conf).
+
+This is the content for the "Ninety days" reading plan:
+```
+[NinetyDaysReadingPlan]
+DataPath=./modules/texts/ztext/NinetyDaysReadingPlan/
+Version=1.0
+Description=Through the Bible in 90 days
+ShortPromo=Challenge yourself and read through the entire Bible in 90 days
+DistributionLicense=Public Domain
+Category=And Bible
+ModDrv=RawGenBook
+Versification=KJV
+AndBibleMinimumVersion=535
+AndBibleProvidesReadingPlan=NinetyDaysReadingPlan.properties
+```
+
+It's quite self-explanatory, but I will highlight a few things. The "Category" has to remain as "And Bible", and "ModDrv" needs to remain as in sample above. "Versification" default is always KJV, so that line really only needs to be provided if it's different. For more about versification, see [here](https://wiki.crosswire.org/Alternate_Versification). The "AndBibleMinimumVersion" also needs to remain as 535 because that's when the zip format started to be supported. Earlier versions of And Bible will then be able to determine that this module is not supported.
+
+The "AndBibleProvidesReadingPlan" is set to the file name that exists in the "DataPath" set at the start of the file.
+
+### The `.properties` file
 You will need to create a file similar to the examples [here](https://github.com/AndBible/and-bible/tree/master/app/src/main/assets/readingplan) which are the reading plans distributed with And Bible.  The name of the file will be the name of the plan.  The file extension must be .properties and you must place it on your mobile's sdcard in a folder named jsword/readingplan.  Use a simple text editor to create the file e.g. Notepad++ and do not use something like Word.  The file must contain a series of rows in the format day=reading1,reading2 E.g.
 ```
 1=Gen.1, Matt.1
@@ -41,8 +69,8 @@ Example reading plans can be found [here](https://github.com/AndBible/and-bible/
 
 A full list of OSIS book names can be found [here](https://wiki.crosswire.org/OSIS_Book_Abbreviations)
 
-##### Deuterocanonical Books #####
-The default versification for reading plans is KJV.  If you wish to include deuterocanonical books  in your plan you must specify the versification in the properties file.  E.g.:
+#### Deuterocanonical Books
+The default versification for reading plans is KJV.  If you wish to include deuterocanonical books in your plan you must specify the versification in the properties file. However, this is not supported for the new zip format added in 4.0. See the ".conf file" section above for how to do this for zip format.  E.g.:
 ```
 Versification=Vulg
 1=Sir.1-Sir.2
@@ -50,22 +78,22 @@ Versification=Vulg
 3=Bar.1-Bar.2
 ```
 
-## Set Start to Another Day ##
+## Set Start to Another Day
 If you started the readings on a previous day and have just switched to And Bible then select Menu from the Daily Reading screen and then select 'Set Start Date...'.  You may then jump to 'Move the current day to a specific day' below to skip over readings you have already done.
 
-## Abandon Reading Plan ##
+## Abandon Reading Plan
 Press Menu/Reset from the Daily Reading screen.
 
-## Switch between Reading Plans ##
+## Switch between Reading Plans
 Select the first button in the toolbar when in the Daily Reading screen.  By this means it is possible to use several plans simultaneously.
 
-## Preview a plans readings ##
+## Preview a plans readings
 When in the Daily Reading screen select the second button in the toolbar.
 
-## Go to a specific day ##
+## Go to a specific day
 When in the Daily Reading screen select the second button in the toolbar.  Then select the required day from the list.
 
-## Move the current day to a specific day ##
+## Move the current day to a specific day
 This is useful if you have been using a reading plan externally from And Bible.  A sequence of actions might be i) select plan ii) Set start date to another day (as above) iii) Move the current day to a specific day (as below)
 
 **Version 3.3 and earlier:** Go to the day prior to the desired day as described in the above paragraph.  Select Menu/Done (not the normal Done button at the bottom) this bypasses checks and marks the current day as Done and the next day will become the current day.
