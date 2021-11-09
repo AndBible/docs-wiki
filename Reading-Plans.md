@@ -14,6 +14,8 @@ For a sample reading plan in `.zip` format, please see [this file](https://andbi
 
 The zip compressed folder contains a `mods.d` and a `modules` directory. The `mods.d` folder contains the `.conf` file. The modules folder contains the `.properties` file, however, the modules directory often has a longer path of folders to the `.properties` file. See the `.conf` file "DataPath" property below for an example.
 
+When you are done preparing the `mods.d` and `modules` folders, select the 2 folders together and compress them into a zip file. This is the zip file that needs to be imported to And Bible.
+
 ### The `.conf` file
 For a sample `.conf` file, please see [this file](https://andbible.github.io/data/andbible/beta/mods.d/NinetyDaysReadingPlan.conf).
 
