@@ -17,6 +17,7 @@
   * [Running And Bible in Chrome](https://github.com/AndBible/and-bible/wiki/Running-And-Bible-in-Chrome)
   * [Custom CSS (obsolete after 3.3)](https://github.com/AndBible/and-bible/wiki/Custom-CSS-for-And-Bible)
   * [Font framework (obsolete after 3.3)](https://github.com/AndBible/and-bible/wiki/Font-Framework)
+  * [Experimental MyBible module support](https://github.com/AndBible/and-bible/wiki/MyBible-module-support)
 * [Release Notes](https://github.com/AndBible/and-bible/wiki/Release-Notes)
   * [v4.0](https://github.com/AndBible/and-bible/wiki/v4.0-Release-Notes)
 * Press releases
