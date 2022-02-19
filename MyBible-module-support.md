@@ -1,6 +1,6 @@
 ## Experimental MyBible module support
 
-Starting from 4.0.639 there is an experimental module support for MyBible module format, more specifically for Bible and Commentary modules.
+Starting from `4.0.639` there is an experimental module support for MyBible module format, more specifically for Bible and Commentary modules.
 
 To read MyBible modules, create a new folder `Android/data/net.bible.android.activity/files/mybible` and copy MyBible module files there. 
 
