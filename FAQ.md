@@ -46,9 +46,14 @@ And Bible developers don't fix module issues. Modules used by And Bible are prov
 
 **AndBible/AndBible Extra:** Raise and issue on our [Github issues page](https://github.com/AndBible/and-bible/issues)
 
-## I have older phone, that doesn't have Android 4.4+. Can I use And Bible?
+## I have older phone, that doesn't have Android 5.0+. Can I use And Bible?
 
-Yes, you can download old, unsupported version from [here](https://github.com/AndBible/and-bible/releases/tag/build-02.09.05).
+Yes, you can download old, unsupported versions here:
+| Android | AB Version | Link to download |
+|---|---|---|
+| 2.3 (Gingerbread) and newer | 2.9.5 | [Download](https://github.com/AndBible/and-bible/releases/tag/build-02.09.05) |
+| 4.4 (KitKat) and newer | 3.2.343 | [Download](https://github.com/AndBible/and-bible/releases/tag/v3.2.343) |
+| 5.0 (Lollipop) and newer| Latest | [Download](https://github.com/AndBible/and-bible/releases/latest) |
 
 ## Is there any way to change the voice of the speech synthesis in And Bible?
 
