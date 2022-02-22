@@ -4,7 +4,7 @@
 - [I can't find ESV any more in Downloads. What's wrong?](https://github.com/AndBible/and-bible/wiki/FAQ#i-cant-find-esv-any-more-in-downloads-whats-wrong)
 - [Please add module X to And Bible!](https://github.com/AndBible/and-bible/wiki/FAQ#please-add-module-x-to-and-bible)
 - [I found text issue in one of the Bible / Commentary etc. modules in And Bible](https://github.com/AndBible/and-bible/wiki/FAQ#i-found-text-issue-in-one-of-the-bible--commentary-etc-modules-in-and-bible)
-- [I have older phone, that doesn't have Android 4.4+. Can I use And Bible?](https://github.com/AndBible/and-bible/wiki/FAQ#i-have-older-phone-that-doesnt-have-android-44-can-i-use-and-bible)
+- [I have older phone, that doesn't have Android 5.0+. Can I use And Bible?](https://github.com/AndBible/and-bible/wiki/FAQ#i-have-older-phone-that-doesnt-have-android-44-can-i-use-and-bible)
 - [Is there any way to change the voice of the speech synthesis in And Bible?](https://github.com/AndBible/and-bible/wiki/FAQ#is-there-any-way-to-change-the-voice-of-the-speech-synthesis-in-and-bible)
 - [Is there version for iOS (Apple iPhone / iPad) in plans?](https://github.com/AndBible/and-bible/wiki/FAQ#is-there-version-for-ios-apple-iphone--ipad-in-plans)
 - [I have downloaded one Bible but how do I download more Bibles, commentaries etc.](https://github.com/AndBible/and-bible/wiki/FAQ#i-have-downloaded-one-bible-but-how-do-i-download-more-bibles-commentaries-etc)
