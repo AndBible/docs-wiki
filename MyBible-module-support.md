@@ -8,31 +8,33 @@ Starting from `4.0.639` there is an experimental module support for MyBible modu
 4. Restart And Bible and you will find the modules now installed.
 
 
-## Custom add-on modules that provide MyBible documents for And Bible 4.0.640+
+## Modules that use MyBible backend instead of Sword (And Bible 4.0.640+)
 
-And Bible 4.0.640+ supports offering new fonts to users with custom addons modules.
+Now it is possible to create modules that use MyBible style sqlite3 data.
 
-Define category as "And Bible" and your fonts with AndBibleProvidesMyBibleModules keys, like in the following example:
+To implement this, first create config file (here, `mods.d/FiAapeli.conf`):
 
 ```
-[MyBibleExample]
-DataPath=./modules/texts/ztext/MyBibleExample/
-Version=1.0
-ShortPromo=Provides example MyBible module (FiAapeli; Aapeli Saarisalo UT 1969)
-Description=Provides example MyBible module
-DistributionLicense=Public Domain
-Category=And Bible
-ModDrv=RawGenBook
-InstallSize=1331668
+[FiAapeli]
+DataPath=./modules/texts/ztext/FiAapeli/
 AndBibleMinimumVersion=640
-AndBibleProvidesMyBibleModule=FiAapeli;FIASUTa.SQLite3
+ModDrv=MyBibleBible
+CompressType=ZIP
+BlockType=BOOK
+Encoding=UTF-8
+SourceType=OSIS
+Lang=fi
+LCSH=Bible.Finnish
+MinimumVersion=1.6.1
+Description=Aapeli Saarisalo UT 1969 viitteineen
+Versification=KJV
 ```
 
-Put your MyBible module files (here `FIASUTa.SQLite3`) in your module folder, i.e. to 
-`./modules/texts/ztext/MyBibleExample/`.
+put your MyBible module file (here `FIASUTa.SQLite3`) in your module folder to your module folder
+with name `module.SQLite3`, i.e here: `./modules/texts/ztext/FiAapeli/module.SQLite3`.
 
 `AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e 4.0.640).
 
-See examples: https://github.com/AndBible/special-modules/
+Module example: https://github.com/AndBible/special-modules/tree/master/FiAapeli
 
 ### Please note that this is unsupported and experimental feature. It might or might not work. Use at your own risk!
