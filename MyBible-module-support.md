@@ -34,6 +34,7 @@ put your MyBible module file (here `FIASUTa.SQLite3`) in your module folder to y
 with name `module.SQLite3`, i.e here: `./modules/texts/ztext/FiAapeli/module.SQLite3`.
 
 `AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e 4.0.640).
+`ModDrv` can be either `MyBibleBible` or `MyBibleCommentary`, depending on the type of the content.
 
 Module example: https://github.com/AndBible/special-modules/tree/master/FiAapeli
 
