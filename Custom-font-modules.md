@@ -1,6 +1,6 @@
 # Custom font modules for And Bible 4.0+ 
 
-And Bible 3.4+ supports offering new fonts to users with custom addons modules.
+And Bible 4.0+ supports offering new fonts to users with custom addons modules.
 
 Define category as "And Bible" and your fonts with AndBibleProvidesFont keys, like in the following example:
 
