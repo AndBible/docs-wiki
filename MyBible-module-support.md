@@ -35,6 +35,8 @@ with name `module.SQLite3`, i.e here: `./modules/texts/MyBible/FiAapeli/module.S
 `AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e 4.0.640).
 `ModDrv` can be either `MyBibleBible`, `MyBibleCommentary`, or `MyBibleDictionary` (support starting from 4.0.641) depending on the type of the content.
 
-Module example: https://github.com/AndBible/special-modules/tree/master/FiAapeli
+Module examples: 
+- https://github.com/AndBible/special-modules/tree/master/FiAapeli
+- https://github.com/AndBible/special-modules/tree/master/MyBibleStrongs
 
 ### Please note that this is unsupported and experimental feature. It might or might not work. Use at your own risk!
