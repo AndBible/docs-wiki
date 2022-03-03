@@ -1,6 +1,6 @@
 ## Experimental MyBible module support
 
-Starting from `4.0.639` there is an experimental module support for MyBible module format, more specifically for Bible and Commentary modules.
+Starting from `4.0.640` there is an experimental module support for MyBible module format, more specifically for Bible, Commentary and Dictionary (starting from 4.0.641) modules.
 
 1. Connect your device to computer with USB cable. 
 2. Create a new folder `Android/data/net.bible.android.activity/files/mybible` 
@@ -34,7 +34,7 @@ put your MyBible module file (here `FIASUTa.SQLite3`) in your module folder to y
 with name `module.SQLite3`, i.e here: `./modules/texts/ztext/FiAapeli/module.SQLite3`.
 
 `AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e 4.0.640).
-`ModDrv` can be either `MyBibleBible` or `MyBibleCommentary`, depending on the type of the content.
+`ModDrv` can be either `MyBibleBible`, `MyBibleCommentary`, or `MyBibleDictionary` (support starting from 4.0.641) depending on the type of the content.
 
 Module example: https://github.com/AndBible/special-modules/tree/master/FiAapeli
 
