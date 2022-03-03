@@ -16,7 +16,7 @@ To implement this, first create config file (here, `mods.d/FiAapeli.conf`):
 
 ```
 [FiAapeli]
-DataPath=./modules/texts/ztext/FiAapeli/
+DataPath=./modules/texts/MyBible/FiAapeli/
 AndBibleMinimumVersion=640
 ModDrv=MyBibleBible
 CompressType=ZIP
@@ -25,13 +25,12 @@ Encoding=UTF-8
 SourceType=OSIS
 Lang=fi
 LCSH=Bible.Finnish
-MinimumVersion=1.6.1
 Description=Aapeli Saarisalo UT 1969 viitteineen
 Versification=KJV
 ```
 
 put your MyBible module file (here `FIASUTa.SQLite3`) in your module folder to your module folder
-with name `module.SQLite3`, i.e here: `./modules/texts/ztext/FiAapeli/module.SQLite3`.
+with name `module.SQLite3`, i.e here: `./modules/texts/MyBible/FiAapeli/module.SQLite3`.
 
 `AndBibleMinimumVersion` refers to build number (the last three digits in the version, i.e 4.0.640).
 `ModDrv` can be either `MyBibleBible`, `MyBibleCommentary`, or `MyBibleDictionary` (support starting from 4.0.641) depending on the type of the content.
