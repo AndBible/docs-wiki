@@ -10,6 +10,8 @@ Starting from `4.0.640` there is an experimental module support for MyBible modu
 
 ## Modules that use MyBible backend instead of Sword (And Bible 4.0.640+)
 
+If you'd like to see some MyBible module distributed in And Bible, please  [suggest it here](https://github.com/AndBible/and-bible/issues/2122).
+
 Now it is possible to create modules that use MyBible style sqlite3 data.
 
 To implement this, first create config file (here, `mods.d/FiAapeli.conf`):
