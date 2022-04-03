@@ -8,7 +8,7 @@ Starting from `4.0.640` there is an experimental module support for MyBible modu
 4. Restart And Bible and you will find the modules now installed.
 
 
-## Modules that use MyBible backend instead of Sword (And Bible 4.0.640+)
+## "Sword-like" modules that use MyBible backend instead of Sword (And Bible 4.0.640+)
 
 ### If you'd like to see some MyBible module distributed in And Bible, please  [suggest it here](https://github.com/AndBible/and-bible/issues/2122).
 
