@@ -1,4 +1,4 @@
-## Experimental MyBible module support
+## Users: MyBible module support (Experimental)
 
 Starting from `4.0.640` there is an experimental module support for MyBible module format, more specifically for Bible, Commentary and Dictionary (starting from 4.0.641) modules.
 
@@ -8,7 +8,9 @@ Starting from `4.0.640` there is an experimental module support for MyBible modu
 4. Restart And Bible and you will find the modules now installed.
 
 
-## "Sword-like" modules that use MyBible backend instead of Sword (And Bible 4.0.640+)
+## Module creators
+
+It is now possible to create "Sword-like" modules that use MyBible backend instead of Sword (And Bible 4.0.640+).
 
 ### If you'd like to see some MyBible module distributed in And Bible, please  [suggest it here](https://github.com/AndBible/and-bible/issues/2122).
 
