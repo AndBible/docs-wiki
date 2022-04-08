@@ -30,3 +30,7 @@ We have prepared many useful tutorial videos that help you get better grasp of t
 - [Introduction to Labels](https://youtu.be/0AwBktLOup8)
 - [Introduction to Bible Notes](https://youtu.be/--Hr5LqBfmg)
 - [How to use Study Pads](https://youtu.be/4gLyW3P9Phs)
+
+# Documentation
+
+See [documentation at readthedocs](https://andbible.readthedocs.io/en/latest/)
