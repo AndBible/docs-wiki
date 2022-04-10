@@ -38,6 +38,8 @@ It's quite self-explanatory, but I will highlight a few things. The "Category" h
 
 The "AndBibleProvidesReadingPlan" is set to the file name that exists in the "DataPath" set at the start of the file.
 
+If your reading plan is date-based you will need to add this line to the .conf file: `AndBibleReadingPlanDateBased=true`
+
 ### The `.properties` file
 You will need to create a file similar to the examples [here](https://github.com/AndBible/and-bible/tree/master/app/src/main/assets/readingplan) which are the reading plans distributed with And Bible.  The name of the file will be the name of the plan.  The file extension must be .properties and you must place it on your mobile's sdcard in a folder named jsword/readingplan.  Use a simple text editor to create the file e.g. Notepad++ and do not use something like Word.  The file must contain a series of rows in the format day=reading1,reading2 E.g.
 ```
@@ -64,6 +66,8 @@ You can also add a date-based reading plan, which includes the month and day num
 ...
 334=Nov-30;Est 7-8,Oba,Heb 3-5
 ```
+
+As mentioned in the ".conf file" section, you will need to add this line to the .conf file: `AndBibleReadingPlanDateBased=true`
 
 OSIS format references must be used and OSIS Bible book names must be used.  These will be translated to the current language when displayed in And Bible.  E.g. Gen.1,Matt.1-Matt.2,Ps.119.1-Ps.119.10
 
